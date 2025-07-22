@@ -1,0 +1,3986 @@
+Information on iteration 1:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.55487012987013
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 2:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.6121327561327559
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[88, 642, 760, 1091, 1315, 11, 98, 131, 146, 183]
+Closest neighbours from non reference groups:
+[524, 1381, 50, 400, 489, 615, 638, 722, 741, 778]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.6121327561327559
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[88, 642, 760, 1091, 1315, 11, 98, 131, 146, 183]
+Closest neighbours from non reference groups:
+[524, 1381, 50, 400, 489, 615, 638, 722, 741, 778]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 3:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 4:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.6121327561327559
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[88, 642, 760, 1091, 1315, 11, 98, 131, 146, 183]
+Closest neighbours from non reference groups:
+[524, 1381, 50, 400, 489, 615, 638, 722, 741, 778]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5526904761904763
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 5:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.55487012987013
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 6:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 7:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.6121327561327559
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[88, 642, 760, 1091, 1315, 11, 98, 131, 146, 183]
+Closest neighbours from non reference groups:
+[524, 1381, 50, 400, 489, 615, 638, 722, 741, 778]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.55487012987013
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 8:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.534968253968254
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 9:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5400555555555555
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5526904761904763
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 10:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 11:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 12:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9854583333333334
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.60
+Closest neighbours from reference group:
+[846, 130, 167, 653, 816, 831, 1079, 139, 771, 54]
+Closest neighbours from non reference groups:
+[395, 1108, 1126, 1401, 85, 324, 516, 625, 736, 1020]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.55487012987013
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 13:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5526904761904763
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.534968253968254
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 14:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 15:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8844296189706401
+Rejection Based on this rule
+(derived_race = Black or African American AND loan_amount = More than 300k AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.081, Confidence: 0.984, Lift: 0.000, SLift: 0.275
+Situation Testing Score: Disc Score: 0.80
+Closest neighbours from reference group:
+[98, 131, 149, 190, 249, 307, 544, 636, 978, 1104]
+Closest neighbours from non reference groups:
+[102, 50, 162, 232, 247, 489, 540, 615, 638, 670]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 16:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5526904761904763
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 17:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5432344877344878
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 18:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 19:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.6121327561327559
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[88, 642, 760, 1091, 1315, 11, 98, 131, 146, 183]
+Closest neighbours from non reference groups:
+[524, 1381, 50, 400, 489, 615, 638, 722, 741, 778]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9081901154401156
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[130, 831, 54, 111, 316, 522, 624, 695, 767, 846]
+Closest neighbours from non reference groups:
+[625, 736, 1130, 1149, 1312, 380, 395, 466, 1016, 1044]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.6121327561327559
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[88, 642, 760, 1091, 1315, 11, 98, 131, 146, 183]
+Closest neighbours from non reference groups:
+[524, 1381, 50, 400, 489, 615, 638, 722, 741, 778]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.9854583333333334
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.60
+Closest neighbours from reference group:
+[846, 130, 167, 653, 816, 831, 1079, 139, 771, 54]
+Closest neighbours from non reference groups:
+[395, 1108, 1126, 1401, 85, 324, 516, 625, 736, 1020]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5663809523809523
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5701428195987023
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.54
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+Information on iteration 20:---------------Uncertainty Rejects------------------------------Unfairness Rejects---------------
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.8302615440115436
+Rejection Based on this rule
+(loan_amount = 100k-300k AND derived_sex = Female AND derived_race = Black or African American AND debt_to_income_ratio = 36%-50%) -> (action_taken = Denied), Support: 0.039, Confidence: 0.984, Lift: 0.000, SLift: 0.620
+Situation Testing Score: Disc Score: 0.40
+Closest neighbours from reference group:
+[281, 1006, 1050, 1145, 240, 256, 262, 1114, 1523, 35]
+Closest neighbours from non reference groups:
+[304, 339, 541, 864, 1022, 1131, 1273, 6, 68, 127]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.7865000000000001
+Rejection Based on this rule
+(loan_purpose = Refinancing AND derived_race = Black or African American AND derived_sex = Male AND income = 50k-100k) -> (action_taken = Denied), Support: 0.017, Confidence: 1.000, Lift: 0.000, SLift: 0.500
+Situation Testing Score: Disc Score: 0.50
+Closest neighbours from reference group:
+[588, 860, 1029, 1118, 1382, 1464, 7, 185, 364, 468]
+Closest neighbours from non reference groups:
+[10, 206, 611, 1154, 1522, 143, 234, 245, 257, 259]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Denied
+Prediction Probability: 0.59
+Rejection Based on this rule
+(debt_to_income_ratio = 30%-<36% AND derived_race = Black or African American AND income = 50k-100k) -> (action_taken = Denied), Support: 0.018, Confidence: 0.966, Lift: 0.000, SLift: 0.489
+Situation Testing Score: Disc Score: 0.30
+Closest neighbours from reference group:
+[327, 58, 113, 144, 766, 1283, 1322, 1374, 1414, 71]
+Closest neighbours from non reference groups:
+[439, 763, 1234, 383, 426, 686, 787, 820, 901, 977]
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.534968253968254
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5534166666666666
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan
+
+______________________________
+Unfairness-based Reject for this instance
+
+Prediction that would have been made: Approved
+Prediction Probability: 0.5593021446652481
+Rejection Based on this rule
+nan
+Situation Testing Score: nan

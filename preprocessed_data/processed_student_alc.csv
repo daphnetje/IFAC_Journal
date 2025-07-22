@@ -1,0 +1,857 @@
+﻿studytime,freetime,Walc,goout,Parents_edu,absences,reason,G3,sex,Predicted Pass,GroundTruth
+2-5 hours,average,very high,three times or more,high school,0-1,course,Fail,M,pass,fail
+less than 2 hours,average,high,once a week,middle school,0-1,course,Fail,M,fail,fail
+less than 2 hours,average,high,twice a week,high school,0-1,course,Fail,M,fail,fail
+more than 5 hours,high,high,three times or more,university,0-1,course,Fail,M,pass,fail
+2-5 hours,average,very high,three times or more,no education,0-1,course,Fail,M,fail,fail
+2-5 hours,average,very high,three times or more,no education,0-1,course,Fail,M,pass,fail
+less than 2 hours,high,very high,three times or more,high school,0-1,course,Fail,M,fail,fail
+2-5 hours,high,low,three times or more,high school,0-1,course,Fail,M,pass,fail
+2-5 hours,high,very high,three times or more,high school,0-1,course,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,no education,0-1,course,Fail,M,fail,fail
+less than 2 hours,high,moderate,three times or more,middle school,0-1,course,Fail,M,fail,fail
+less than 2 hours,average,very high,once a week,middle school,0-1,other,Pass,M,pass,pass
+less than 2 hours,average,moderate,twice a week,middle school,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,high,very high,three times or more,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,no education,0-1,course,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,middle school,0-1,reputation,Pass,M,fail,pass
+2-5 hours,high,very high,once a week,university,0-1,home,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,university,0-1,home,Pass,M,pass,pass
+2-5 hours,average,low,once a week,high school,0-1,course,Pass,M,pass,pass
+less than 2 hours,low,high,twice a week,high school,0-1,home,Pass,M,fail,pass
+2-5 hours,low,very high,three times or more,university,0-1,reputation,Pass,M,fail,pass
+more than 5 hours,high,low,once a week,middle school,0-1,home,Pass,M,pass,pass
+more than 5 hours,average,high,twice a week,high school,0-1,reputation,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,pass,pass
+less than 2 hours,average,moderate,three times or more,high school,0-1,home,Pass,M,fail,pass
+2-5 hours,average,moderate,twice a week,no education,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,once a week,high school,0-1,home,Pass,M,pass,pass
+less than 2 hours,low,very high,three times or more,university,0-1,other,Pass,M,pass,pass
+2-5 hours,high,low,three times or more,university,0-1,course,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,university,0-1,other,Pass,M,pass,pass
+less than 2 hours,average,very high,three times or more,high school,0-1,reputation,Pass,M,fail,pass
+2-5 hours,high,very high,once a week,university,0-1,home,Pass,M,pass,pass
+more than 5 hours,average,moderate,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,high,low,once a week,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,average,very high,once a week,middle school,0-1,other,Pass,M,fail,pass
+less than 2 hours,average,moderate,twice a week,middle school,0-1,other,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,pass,pass
+more than 5 hours,average,low,twice a week,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,low,low,once a week,middle school,0-1,other,Pass,M,pass,pass
+more than 5 hours,average,low,never,middle school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,low,never,university,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,low,moderate,never,university,0-1,home,Pass,M,pass,pass
+2-5 hours,high,high,never,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,very high,never,high school,0-1,course,Pass,M,fail,pass
+more than 5 hours,high,low,once a week,middle school,0-1,home,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,university,0-1,home,Pass,M,pass,pass
+more than 5 hours,low,moderate,twice a week,middle school,0-1,other,Pass,M,pass,pass
+less than 2 hours,high,moderate,three times or more,no education,0-1,course,Pass,M,pass,pass
+less than 2 hours,low,low,once a week,university,0-1,other,Pass,M,pass,pass
+less than 2 hours,high,low,never,middle school,0-1,home,Pass,M,pass,pass
+more than 5 hours,average,very high,twice a week,university,0-1,reputation,Pass,M,pass,pass
+2-5 hours,high,low,three times or more,middle school,0-1,home,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,high,three times or more,no education,0-1,course,Pass,M,fail,pass
+2-5 hours,average,low,once a week,middle school,0-1,home,Pass,M,pass,pass
+less than 2 hours,average,low,twice a week,high school,0-1,home,Pass,M,fail,pass
+more than 5 hours,average,high,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,average,moderate,twice a week,university,0-1,home,Pass,M,pass,pass
+less than 2 hours,high,very high,twice a week,no education,0-1,home,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,moderate,three times or more,university,0-1,home,Pass,M,pass,pass
+less than 2 hours,high,high,twice a week,high school,0-1,home,Pass,M,fail,pass
+less than 2 hours,average,very high,once a week,high school,0-1,reputation,Pass,M,pass,pass
+2-5 hours,low,low,once a week,high school,0-1,home,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,fail,pass
+less than 2 hours,low,very high,once a week,university,0-1,other,Pass,M,fail,pass
+2-5 hours,high,low,twice a week,university,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,high,high,three times or more,university,0-1,course,Pass,M,pass,pass
+2-5 hours,low,high,twice a week,no education,0-1,other,Pass,M,pass,pass
+2-5 hours,high,low,three times or more,middle school,0-1,home,Pass,M,fail,pass
+2-5 hours,high,moderate,twice a week,high school,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,average,moderate,once a week,high school,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,average,low,once a week,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,university,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,once a week,university,0-1,other,Pass,M,pass,pass
+2-5 hours,average,very high,twice a week,middle school,0-1,home,Pass,M,pass,pass
+2-5 hours,average,very high,three times or more,middle school,0-1,course,Pass,M,pass,pass
+less than 2 hours,average,moderate,once a week,university,0-1,course,Pass,M,fail,pass
+2-5 hours,high,very high,once a week,middle school,0-1,home,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,high school,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,twice a week,high school,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,low,never,middle school,0-1,course,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,middle school,0-1,other,Pass,M,pass,pass
+2-5 hours,high,low,once a week,middle school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,low,never,university,0-1,home,Pass,M,fail,pass
+more than 5 hours,high,moderate,twice a week,university,0-1,home,Pass,M,fail,pass
+less than 2 hours,average,high,twice a week,university,0-1,course,Pass,M,fail,pass
+2-5 hours,low,low,once a week,high school,0-1,home,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,high school,0-1,other,Pass,M,fail,pass
+2-5 hours,high,low,three times or more,university,0-1,course,Pass,M,pass,pass
+2-5 hours,high,moderate,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,average,low,twice a week,middle school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,low,once a week,university,0-1,course,Pass,M,pass,pass
+more than 5 hours,average,low,once a week,high school,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,average,low,once a week,no education,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,very high,once a week,middle school,0-1,course,Pass,M,pass,pass
+more than 5 hours,low,moderate,once a week,university,0-1,other,Pass,M,pass,pass
+less than 2 hours,high,very high,once a week,middle school,0-1,course,Pass,M,pass,pass
+2-5 hours,average,low,twice a week,high school,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,high,low,once a week,high school,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,low,moderate,never,university,0-1,home,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,university,0-1,reputation,Pass,M,fail,pass
+2-5 hours,average,low,once a week,high school,0-1,course,Pass,M,pass,pass
+more than 5 hours,low,high,three times or more,middle school,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,low,moderate,once a week,university,0-1,other,Pass,M,pass,pass
+2-5 hours,average,low,never,university,0-1,reputation,Pass,M,pass,pass
+2-5 hours,average,moderate,three times or more,university,0-1,reputation,Pass,M,pass,pass
+2-5 hours,average,low,once a week,no education,0-1,reputation,Pass,M,pass,pass
+2-5 hours,low,moderate,once a week,middle school,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,low,never,middle school,0-1,course,Pass,M,fail,pass
+2-5 hours,low,moderate,once a week,high school,0-1,other,Pass,M,pass,pass
+less than 2 hours,low,moderate,twice a week,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,low,high,once a week,high school,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,low,twice a week,high school,0-1,home,Pass,M,fail,pass
+2-5 hours,low,moderate,twice a week,middle school,0-1,course,Pass,M,fail,pass
+more than 5 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,low,never,university,0-1,reputation,Pass,M,pass,pass
+2-5 hours,average,low,never,university,0-1,course,Pass,M,pass,pass
+2-5 hours,low,moderate,twice a week,middle school,0-1,course,Pass,M,fail,pass
+2-5 hours,high,low,never,university,0-1,home,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,no education,0-1,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,university,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,twice a week,high school,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,low,once a week,university,0-1,other,Pass,M,pass,pass
+less than 2 hours,average,low,twice a week,high school,0-1,home,Pass,M,pass,pass
+more than 5 hours,average,low,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,high,moderate,twice a week,high school,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,high,moderate,once a week,university,0-1,home,Pass,M,pass,pass
+2-5 hours,average,low,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,low,moderate,twice a week,high school,0-1,home,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,university,0-1,other,Pass,M,pass,pass
+more than 5 hours,average,high,twice a week,high school,0-1,home,Fail,F,fail,fail
+2-5 hours,average,moderate,twice a week,university,0-1,reputation,Fail,F,fail,fail
+less than 2 hours,low,high,twice a week,high school,0-1,course,Fail,F,fail,fail
+2-5 hours,high,high,once a week,middle school,0-1,home,Fail,F,pass,fail
+more than 5 hours,average,low,three times or more,university,0-1,course,Fail,F,pass,fail
+2-5 hours,average,low,twice a week,no education,0-1,course,Fail,F,fail,fail
+less than 2 hours,low,moderate,never,no education,0-1,reputation,Fail,F,pass,fail
+less than 2 hours,high,low,never,high school,0-1,other,Fail,F,fail,fail
+2-5 hours,high,high,three times or more,middle school,0-1,course,Fail,F,fail,fail
+less than 2 hours,low,high,never,no education,0-1,course,Fail,F,fail,fail
+2-5 hours,average,low,three times or more,high school,0-1,course,Fail,F,fail,fail
+less than 2 hours,average,low,three times or more,middle school,0-1,home,Fail,F,pass,fail
+less than 2 hours,low,low,once a week,university,0-1,course,Fail,F,pass,fail
+more than 5 hours,average,moderate,once a week,middle school,0-1,course,Fail,F,pass,fail
+2-5 hours,average,low,three times or more,high school,0-1,course,Fail,F,fail,fail
+less than 2 hours,high,moderate,three times or more,no education,0-1,other,Fail,F,fail,fail
+more than 5 hours,average,low,three times or more,university,0-1,reputation,Fail,F,pass,fail
+less than 2 hours,average,low,once a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,middle school,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,low,low,twice a week,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,middle school,0-1,home,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,university,0-1,home,Pass,F,pass,pass
+2-5 hours,high,low,twice a week,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,high,twice a week,middle school,0-1,home,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,university,0-1,course,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,no education,0-1,home,Pass,F,pass,pass
+2-5 hours,average,low,never,high school,0-1,other,Pass,F,pass,pass
+less than 2 hours,high,low,once a week,middle school,0-1,home,Pass,F,pass,pass
+2-5 hours,low,low,once a week,middle school,0-1,other,Pass,F,pass,pass
+more than 5 hours,high,high,twice a week,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,moderate,three times or more,middle school,0-1,course,Pass,F,pass,pass
+less than 2 hours,low,low,never,university,0-1,course,Pass,F,pass,pass
+less than 2 hours,low,moderate,twice a week,university,0-1,other,Pass,F,pass,pass
+2-5 hours,high,moderate,twice a week,no education,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,moderate,three times or more,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,low,twice a week,university,0-1,home,Pass,F,fail,pass
+2-5 hours,high,moderate,once a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,middle school,0-1,home,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,high,moderate,once a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,high school,0-1,home,Pass,F,pass,pass
+less than 2 hours,high,low,twice a week,no education,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,university,0-1,reputation,Pass,F,pass,pass
+less than 2 hours,low,moderate,three times or more,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,high,high,once a week,university,0-1,reputation,Pass,F,pass,pass
+less than 2 hours,average,very high,three times or more,high school,0-1,other,Pass,F,pass,pass
+less than 2 hours,average,low,once a week,middle school,0-1,home,Pass,F,pass,pass
+less than 2 hours,low,moderate,twice a week,high school,0-1,course,Pass,F,pass,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,high,twice a week,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,low,twice a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,high,very high,three times or more,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,very high,three times or more,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,low,three times or more,middle school,0-1,home,Pass,F,pass,pass
+less than 2 hours,high,low,three times or more,high school,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,high,once a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,high school,0-1,reputation,Pass,F,fail,pass
+2-5 hours,high,low,three times or more,no education,0-1,home,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,high school,0-1,home,Pass,F,pass,pass
+2-5 hours,high,low,twice a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,moderate,never,no education,0-1,course,Pass,F,pass,pass
+less than 2 hours,average,high,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,high,low,twice a week,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,low,low,once a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,no education,0-1,home,Pass,F,pass,pass
+more than 5 hours,low,high,twice a week,middle school,0-1,reputation,Pass,F,fail,pass
+more than 5 hours,high,very high,three times or more,university,0-1,home,Pass,F,pass,pass
+more than 5 hours,average,moderate,once a week,middle school,0-1,course,Pass,F,pass,pass
+less than 2 hours,high,very high,never,university,0-1,course,Pass,F,pass,pass
+2-5 hours,high,moderate,once a week,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,once a week,university,0-1,course,Pass,F,pass,pass
+less than 2 hours,high,low,never,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,high,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,high school,0-1,other,Pass,F,pass,pass
+more than 5 hours,low,moderate,once a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,low,three times or more,university,0-1,home,Pass,F,pass,pass
+less than 2 hours,low,moderate,twice a week,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,high,moderate,once a week,university,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,moderate,twice a week,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,university,0-1,other,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,high,twice a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,middle school,0-1,home,Pass,F,pass,pass
+2-5 hours,high,low,twice a week,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,low,twice a week,middle school,0-1,other,Pass,F,pass,pass
+2-5 hours,average,high,twice a week,high school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,very high,twice a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,high school,0-1,home,Pass,F,pass,pass
+2-5 hours,average,moderate,once a week,high school,0-1,home,Pass,F,pass,pass
+more than 5 hours,average,high,twice a week,middle school,0-1,home,Pass,F,pass,pass
+2-5 hours,average,high,twice a week,middle school,0-1,course,Pass,F,pass,pass
+less than 2 hours,low,low,twice a week,high school,0-1,course,Pass,F,fail,pass
+more than 5 hours,low,low,once a week,university,0-1,home,Pass,F,pass,pass
+2-5 hours,high,moderate,once a week,university,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,high,high,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,low,moderate,once a week,university,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,high,high,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,high school,0-1,home,Pass,F,pass,pass
+more than 5 hours,high,high,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,low,once a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,low,once a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,low,once a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,middle school,0-1,home,Pass,F,fail,pass
+less than 2 hours,high,very high,three times or more,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,high,three times or more,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,high school,0-1,reputation,Pass,F,pass,pass
+less than 2 hours,high,moderate,three times or more,no education,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,low,once a week,university,0-1,home,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,very high,three times or more,university,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,low,moderate,once a week,high school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,no education,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,high school,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,average,very high,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,university,0-1,home,Pass,F,fail,pass
+more than 5 hours,high,high,twice a week,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,once a week,middle school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,middle school,0-1,reputation,Pass,F,pass,pass
+less than 2 hours,low,high,once a week,no education,0-1,other,Pass,F,fail,pass
+2-5 hours,average,high,twice a week,high school,0-1,home,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,no education,0-1,course,Pass,F,fail,pass
+2-5 hours,low,low,never,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,low,moderate,twice a week,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,high school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,low,very high,once a week,middle school,0-1,other,Fail,M,fail,fail
+less than 2 hours,average,very high,twice a week,high school,0-1,course,Fail,M,fail,fail
+less than 2 hours,high,moderate,three times or more,no education,0-1,course,Fail,M,pass,fail
+more than 5 hours,high,very high,three times or more,university,0-1,home,Fail,M,fail,fail
+less than 2 hours,average,high,twice a week,university,0-1,course,Fail,M,fail,fail
+2-5 hours,average,low,once a week,university,0-1,course,Fail,M,pass,fail
+less than 2 hours,high,very high,three times or more,high school,0-1,course,Fail,M,fail,fail
+more than 5 hours,average,moderate,once a week,high school,0-1,home,Fail,M,pass,fail
+2-5 hours,high,low,once a week,no education,0-1,home,Fail,M,fail,fail
+less than 2 hours,average,high,twice a week,no education,0-1,course,Fail,M,fail,fail
+more than 5 hours,high,very high,three times or more,middle school,0-1,course,Fail,M,fail,fail
+2-5 hours,high,low,three times or more,high school,0-1,course,Fail,M,fail,fail
+more than 5 hours,average,very high,three times or more,middle school,0-1,other,Fail,M,fail,fail
+less than 2 hours,high,moderate,three times or more,university,0-1,home,Fail,M,fail,fail
+2-5 hours,average,low,once a week,middle school,0-1,home,Fail,M,fail,fail
+less than 2 hours,low,very high,three times or more,university,0-1,reputation,Pass,M,fail,pass
+2-5 hours,average,low,never,university,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,university,0-1,home,Pass,M,pass,pass
+less than 2 hours,average,moderate,once a week,high school,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,average,low,twice a week,no education,0-1,home,Pass,M,pass,pass
+2-5 hours,average,very high,once a week,university,0-1,home,Pass,M,fail,pass
+2-5 hours,average,moderate,twice a week,university,0-1,home,Pass,M,pass,pass
+less than 2 hours,low,high,once a week,high school,0-1,course,Pass,M,fail,pass
+less than 2 hours,low,moderate,once a week,middle school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,high school,0-1,other,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,high school,0-1,reputation,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,average,low,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,middle school,0-1,reputation,Pass,M,pass,pass
+2-5 hours,low,moderate,twice a week,high school,0-1,home,Pass,M,pass,pass
+2-5 hours,high,moderate,three times or more,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,average,low,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,middle school,0-1,home,Pass,M,pass,pass
+2-5 hours,high,low,twice a week,high school,0-1,home,Pass,M,pass,pass
+less than 2 hours,high,moderate,twice a week,university,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,low,low,once a week,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,average,low,once a week,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,average,very high,three times or more,high school,0-1,course,Pass,M,pass,pass
+less than 2 hours,average,moderate,once a week,no education,0-1,home,Pass,M,pass,pass
+2-5 hours,average,very high,once a week,middle school,0-1,course,Pass,M,fail,pass
+less than 2 hours,average,high,once a week,middle school,0-1,course,Pass,M,fail,pass
+2-5 hours,high,moderate,once a week,middle school,0-1,home,Pass,M,pass,pass
+2-5 hours,high,low,twice a week,university,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,never,middle school,0-1,home,Pass,M,pass,pass
+more than 5 hours,high,moderate,once a week,university,0-1,reputation,Pass,M,fail,pass
+less than 2 hours,average,high,twice a week,university,0-1,course,Pass,M,fail,pass
+more than 5 hours,average,low,three times or more,middle school,0-1,reputation,Pass,M,fail,pass
+2-5 hours,high,very high,three times or more,university,0-1,course,Pass,M,pass,pass
+2-5 hours,low,very high,three times or more,university,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,average,low,once a week,high school,0-1,reputation,Pass,M,fail,pass
+2-5 hours,average,low,once a week,no education,0-1,reputation,Pass,M,fail,pass
+2-5 hours,high,moderate,once a week,middle school,0-1,home,Pass,M,pass,pass
+more than 5 hours,low,low,once a week,university,0-1,reputation,Pass,M,pass,pass
+more than 5 hours,average,low,once a week,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,average,low,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,low,moderate,three times or more,middle school,0-1,home,Pass,M,pass,pass
+2-5 hours,high,very high,twice a week,no education,0-1,other,Pass,M,fail,pass
+less than 2 hours,average,low,twice a week,university,0-1,reputation,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,fail,pass
+less than 2 hours,low,very high,three times or more,high school,0-1,reputation,Pass,M,fail,pass
+more than 5 hours,average,low,twice a week,high school,0-1,home,Pass,M,fail,pass
+less than 2 hours,low,high,once a week,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,high,twice a week,no education,0-1,other,Pass,M,pass,pass
+2-5 hours,high,moderate,twice a week,university,0-1,course,Pass,M,pass,pass
+2-5 hours,average,moderate,twice a week,no education,0-1,reputation,Pass,M,pass,pass
+less than 2 hours,average,very high,twice a week,high school,0-1,course,Pass,M,fail,pass
+2-5 hours,average,low,twice a week,university,0-1,home,Pass,M,pass,pass
+less than 2 hours,average,moderate,twice a week,middle school,0-1,other,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,middle school,0-1,course,Pass,M,pass,pass
+less than 2 hours,high,high,three times or more,high school,0-1,course,Pass,M,pass,pass
+2-5 hours,high,high,never,university,0-1,course,Pass,M,pass,pass
+less than 2 hours,low,moderate,once a week,middle school,0-1,home,Pass,M,pass,pass
+less than 2 hours,high,low,twice a week,middle school,0-1,home,Fail,F,fail,fail
+2-5 hours,low,low,never,university,0-1,other,Fail,F,pass,fail
+more than 5 hours,average,low,once a week,university,0-1,course,Fail,F,pass,fail
+2-5 hours,average,low,twice a week,middle school,0-1,course,Fail,F,fail,fail
+2-5 hours,high,low,once a week,no education,0-1,course,Fail,F,pass,fail
+2-5 hours,high,low,three times or more,university,0-1,other,Fail,F,pass,fail
+less than 2 hours,low,very high,twice a week,high school,0-1,course,Fail,F,fail,fail
+2-5 hours,average,very high,three times or more,no education,0-1,reputation,Fail,F,pass,fail
+2-5 hours,average,low,three times or more,no education,0-1,course,Fail,F,pass,fail
+2-5 hours,low,moderate,three times or more,middle school,0-1,reputation,Fail,F,fail,fail
+2-5 hours,low,high,twice a week,middle school,0-1,reputation,Fail,F,fail,fail
+2-5 hours,high,moderate,twice a week,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,university,0-1,course,Pass,F,pass,pass
+less than 2 hours,average,very high,three times or more,middle school,0-1,course,Pass,F,fail,pass
+2-5 hours,low,low,twice a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,high,low,twice a week,no education,0-1,home,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,high school,0-1,reputation,Pass,F,fail,pass
+more than 5 hours,average,moderate,twice a week,middle school,0-1,course,Pass,F,pass,pass
+less than 2 hours,average,moderate,three times or more,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,high,once a week,no education,0-1,home,Pass,F,pass,pass
+more than 5 hours,low,low,twice a week,high school,0-1,home,Pass,F,pass,pass
+2-5 hours,average,moderate,twice a week,university,0-1,other,Pass,F,pass,pass
+2-5 hours,average,high,once a week,no education,0-1,home,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,low,once a week,high school,0-1,home,Pass,F,pass,pass
+2-5 hours,low,low,three times or more,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,high school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,university,0-1,other,Pass,F,pass,pass
+less than 2 hours,high,low,three times or more,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,never,high school,0-1,other,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,no education,0-1,other,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,university,0-1,home,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,university,0-1,other,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,university,0-1,course,Pass,F,fail,pass
+more than 5 hours,average,high,twice a week,middle school,0-1,other,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,middle school,0-1,course,Pass,F,pass,pass
+less than 2 hours,high,high,three times or more,middle school,0-1,course,Pass,F,fail,pass
+less than 2 hours,high,high,three times or more,high school,0-1,course,Pass,F,fail,pass
+2-5 hours,average,low,three times or more,middle school,0-1,other,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,low,low,three times or more,university,0-1,home,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,university,0-1,other,Pass,F,pass,pass
+more than 5 hours,average,high,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,low,three times or more,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,high,three times or more,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,moderate,twice a week,middle school,0-1,course,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,university,0-1,course,Pass,F,pass,pass
+2-5 hours,low,low,never,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,high,very high,three times or more,middle school,0-1,reputation,Pass,F,fail,pass
+2-5 hours,high,high,three times or more,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,average,very high,three times or more,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,no education,0-1,reputation,Pass,F,fail,pass
+2-5 hours,low,high,once a week,university,0-1,home,Pass,F,pass,pass
+more than 5 hours,average,high,twice a week,high school,0-1,home,Pass,F,pass,pass
+2-5 hours,high,low,twice a week,no education,0-1,home,Pass,F,pass,pass
+2-5 hours,average,high,three times or more,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,low,low,never,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,high school,0-1,reputation,Pass,F,pass,pass
+2-5 hours,average,high,twice a week,middle school,0-1,course,Pass,F,pass,pass
+less than 2 hours,average,very high,once a week,no education,0-1,home,Pass,F,pass,pass
+2-5 hours,average,very high,never,university,0-1,course,Pass,F,pass,pass
+2-5 hours,average,moderate,twice a week,university,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,university,0-1,course,Pass,F,pass,pass
+more than 5 hours,low,low,twice a week,university,0-1,reputation,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,high school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,university,0-1,home,Pass,F,pass,pass
+more than 5 hours,low,high,never,high school,0-1,reputation,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,university,0-1,home,Pass,F,pass,pass
+2-5 hours,average,high,three times or more,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,no education,0-1,course,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,university,0-1,home,Pass,F,pass,pass
+less than 2 hours,high,high,three times or more,no education,0-1,course,Pass,F,fail,pass
+more than 5 hours,high,low,never,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,average,low,once a week,middle school,0-1,course,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,middle school,0-1,home,Pass,F,fail,pass
+less than 2 hours,low,very high,three times or more,high school,0-1,course,Pass,F,fail,pass
+less than 2 hours,high,high,twice a week,no education,2-6,course,Fail,M,fail,fail
+less than 2 hours,average,high,twice a week,middle school,2-6,other,Pass,M,fail,pass
+2-5 hours,high,moderate,once a week,middle school,2-6,course,Pass,M,pass,pass
+less than 2 hours,high,low,three times or more,university,2-6,reputation,Pass,M,fail,pass
+less than 2 hours,average,high,twice a week,middle school,2-6,other,Pass,M,pass,pass
+less than 2 hours,average,very high,three times or more,high school,2-6,reputation,Pass,M,pass,pass
+more than 5 hours,average,moderate,twice a week,university,2-6,course,Pass,M,pass,pass
+less than 2 hours,average,very high,twice a week,high school,2-6,home,Fail,F,fail,fail
+2-5 hours,average,moderate,twice a week,middle school,2-6,course,Fail,F,fail,fail
+2-5 hours,high,moderate,three times or more,no education,2-6,course,Fail,F,fail,fail
+less than 2 hours,high,moderate,three times or more,no education,2-6,course,Pass,F,pass,pass
+less than 2 hours,low,low,once a week,middle school,2-6,course,Pass,F,pass,pass
+less than 2 hours,high,very high,three times or more,university,2-6,other,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,university,2-6,course,Fail,M,fail,fail
+less than 2 hours,high,high,three times or more,no education,2-6,home,Fail,M,fail,fail
+less than 2 hours,high,high,twice a week,middle school,2-6,course,Fail,M,fail,fail
+2-5 hours,average,very high,three times or more,high school,2-6,reputation,Fail,M,fail,fail
+less than 2 hours,low,low,never,high school,2-6,course,Fail,M,fail,fail
+less than 2 hours,low,very high,three times or more,middle school,2-6,other,Fail,M,fail,fail
+less than 2 hours,low,very high,three times or more,middle school,2-6,other,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,high school,2-6,course,Fail,M,fail,fail
+2-5 hours,high,very high,twice a week,no education,2-6,home,Fail,M,fail,fail
+less than 2 hours,low,moderate,twice a week,university,2-6,home,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,university,2-6,home,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,university,2-6,home,Pass,M,pass,pass
+more than 5 hours,average,moderate,once a week,university,2-6,course,Pass,M,pass,pass
+2-5 hours,low,low,once a week,university,2-6,reputation,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,2-6,course,Pass,M,fail,pass
+less than 2 hours,low,high,twice a week,university,2-6,home,Pass,M,fail,pass
+2-5 hours,high,low,twice a week,university,2-6,reputation,Pass,M,fail,pass
+2-5 hours,average,very high,three times or more,high school,2-6,course,Pass,M,pass,pass
+less than 2 hours,high,high,twice a week,high school,2-6,home,Pass,M,fail,pass
+2-5 hours,high,low,twice a week,high school,2-6,home,Pass,M,pass,pass
+less than 2 hours,low,low,never,middle school,2-6,course,Pass,M,pass,pass
+2-5 hours,high,low,once a week,middle school,2-6,course,Pass,M,pass,pass
+less than 2 hours,average,moderate,twice a week,middle school,2-6,reputation,Pass,M,pass,pass
+less than 2 hours,average,moderate,once a week,university,2-6,course,Pass,M,fail,pass
+2-5 hours,average,moderate,twice a week,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,2-6,course,Pass,M,fail,pass
+less than 2 hours,average,moderate,once a week,no education,2-6,home,Pass,M,pass,pass
+2-5 hours,high,moderate,three times or more,university,2-6,other,Pass,M,pass,pass
+2-5 hours,low,very high,three times or more,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,low,moderate,twice a week,university,2-6,home,Pass,M,pass,pass
+2-5 hours,average,very high,three times or more,middle school,2-6,course,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,2-6,reputation,Pass,M,fail,pass
+2-5 hours,high,high,three times or more,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,very high,never,high school,2-6,course,Pass,M,fail,pass
+less than 2 hours,low,low,once a week,high school,2-6,course,Pass,M,pass,pass
+more than 5 hours,average,moderate,once a week,high school,2-6,home,Pass,M,fail,pass
+less than 2 hours,low,low,once a week,no education,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,low,twice a week,university,2-6,course,Pass,M,pass,pass
+less than 2 hours,high,high,twice a week,middle school,2-6,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,university,2-6,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,twice a week,high school,2-6,home,Pass,M,fail,pass
+2-5 hours,high,low,once a week,middle school,2-6,reputation,Pass,M,pass,pass
+more than 5 hours,average,very high,twice a week,university,2-6,reputation,Pass,M,pass,pass
+more than 5 hours,average,low,twice a week,high school,2-6,home,Pass,M,pass,pass
+more than 5 hours,low,low,once a week,university,2-6,reputation,Pass,M,pass,pass
+2-5 hours,average,very high,three times or more,high school,2-6,reputation,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,2-6,course,Pass,M,fail,pass
+2-5 hours,average,low,never,university,2-6,reputation,Pass,M,pass,pass
+2-5 hours,low,low,twice a week,university,2-6,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,high school,2-6,course,Pass,M,pass,pass
+more than 5 hours,low,moderate,twice a week,high school,2-6,course,Pass,M,pass,pass
+less than 2 hours,low,moderate,once a week,middle school,2-6,course,Pass,M,pass,pass
+2-5 hours,low,very high,twice a week,middle school,2-6,home,Pass,M,fail,pass
+2-5 hours,average,high,twice a week,high school,2-6,reputation,Pass,M,pass,pass
+less than 2 hours,low,very high,three times or more,university,2-6,other,Pass,M,fail,pass
+2-5 hours,high,very high,three times or more,high school,2-6,course,Pass,M,pass,pass
+2-5 hours,low,low,twice a week,university,2-6,course,Pass,M,pass,pass
+less than 2 hours,low,very high,twice a week,no education,2-6,other,Pass,M,fail,pass
+more than 5 hours,high,low,twice a week,university,2-6,reputation,Pass,M,pass,pass
+less than 2 hours,high,high,three times or more,no education,2-6,home,Pass,M,fail,pass
+2-5 hours,high,very high,once a week,middle school,2-6,home,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,middle school,2-6,home,Pass,M,fail,pass
+2-5 hours,high,very high,three times or more,middle school,2-6,course,Pass,M,pass,pass
+2-5 hours,low,very high,three times or more,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,average,low,twice a week,university,2-6,course,Pass,M,pass,pass
+2-5 hours,high,high,twice a week,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,high,three times or more,middle school,2-6,course,Fail,F,fail,fail
+2-5 hours,average,low,twice a week,no education,2-6,course,Fail,F,fail,fail
+2-5 hours,average,moderate,three times or more,university,2-6,course,Fail,F,fail,fail
+2-5 hours,low,low,once a week,high school,2-6,home,Fail,F,pass,fail
+2-5 hours,average,moderate,three times or more,middle school,2-6,course,Fail,F,pass,fail
+2-5 hours,high,low,three times or more,high school,2-6,reputation,Fail,F,fail,fail
+more than 5 hours,low,low,twice a week,high school,2-6,home,Fail,F,pass,fail
+2-5 hours,high,low,twice a week,middle school,2-6,reputation,Fail,F,fail,fail
+2-5 hours,average,high,twice a week,high school,2-6,home,Fail,F,fail,fail
+less than 2 hours,average,moderate,three times or more,university,2-6,reputation,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,high school,2-6,home,Pass,F,pass,pass
+less than 2 hours,high,high,three times or more,no education,2-6,course,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,no education,2-6,home,Pass,F,pass,pass
+more than 5 hours,high,high,twice a week,high school,2-6,other,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,university,2-6,course,Pass,F,pass,pass
+less than 2 hours,average,low,once a week,high school,2-6,course,Pass,F,fail,pass
+more than 5 hours,high,low,twice a week,university,2-6,course,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,university,2-6,other,Pass,F,pass,pass
+less than 2 hours,high,moderate,three times or more,university,2-6,home,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,middle school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,low,low,twice a week,no education,2-6,course,Pass,F,fail,pass
+2-5 hours,high,low,once a week,high school,2-6,course,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,university,2-6,reputation,Pass,F,pass,pass
+2-5 hours,low,low,once a week,middle school,2-6,course,Pass,F,pass,pass
+2-5 hours,high,high,twice a week,high school,2-6,reputation,Pass,F,fail,pass
+2-5 hours,high,low,three times or more,high school,2-6,reputation,Pass,F,pass,pass
+2-5 hours,average,moderate,twice a week,university,2-6,other,Pass,F,pass,pass
+more than 5 hours,average,high,three times or more,middle school,2-6,home,Pass,F,pass,pass
+more than 5 hours,high,high,twice a week,no education,2-6,home,Pass,F,pass,pass
+2-5 hours,high,very high,twice a week,university,2-6,course,Pass,F,pass,pass
+2-5 hours,average,moderate,three times or more,no education,2-6,course,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,middle school,2-6,course,Pass,F,pass,pass
+less than 2 hours,high,moderate,twice a week,university,2-6,reputation,Pass,F,pass,pass
+2-5 hours,average,low,never,middle school,2-6,course,Pass,F,pass,pass
+2-5 hours,low,low,once a week,university,2-6,course,Pass,F,pass,pass
+more than 5 hours,low,low,never,middle school,2-6,reputation,Pass,F,pass,pass
+more than 5 hours,average,moderate,twice a week,university,2-6,course,Pass,F,pass,pass
+2-5 hours,average,low,once a week,university,2-6,course,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,university,2-6,course,Pass,F,pass,pass
+less than 2 hours,high,low,three times or more,university,2-6,course,Pass,F,pass,pass
+more than 5 hours,average,high,twice a week,university,2-6,reputation,Pass,F,pass,pass
+2-5 hours,average,very high,twice a week,high school,2-6,home,Pass,F,fail,pass
+more than 5 hours,average,low,twice a week,middle school,2-6,course,Pass,F,pass,pass
+more than 5 hours,average,moderate,twice a week,high school,2-6,course,Pass,F,pass,pass
+less than 2 hours,high,low,twice a week,middle school,2-6,course,Pass,F,pass,pass
+2-5 hours,average,low,once a week,university,2-6,other,Pass,F,pass,pass
+2-5 hours,average,low,once a week,high school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,high,low,once a week,middle school,2-6,home,Pass,F,pass,pass
+less than 2 hours,average,moderate,three times or more,middle school,2-6,course,Pass,F,fail,pass
+more than 5 hours,low,low,once a week,high school,2-6,reputation,Pass,F,pass,pass
+2-5 hours,high,low,three times or more,high school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,high,high,three times or more,high school,2-6,course,Pass,F,pass,pass
+2-5 hours,average,moderate,once a week,high school,2-6,home,Pass,F,pass,pass
+more than 5 hours,average,high,twice a week,university,2-6,reputation,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,university,2-6,course,Pass,F,pass,pass
+more than 5 hours,average,moderate,twice a week,university,2-6,course,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,no education,2-6,home,Pass,F,pass,pass
+more than 5 hours,average,low,once a week,university,2-6,home,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,middle school,2-6,course,Pass,F,pass,pass
+more than 5 hours,low,low,once a week,middle school,2-6,course,Pass,F,pass,pass
+less than 2 hours,average,very high,twice a week,high school,2-6,home,Pass,F,pass,pass
+more than 5 hours,average,moderate,twice a week,high school,2-6,reputation,Pass,F,pass,pass
+more than 5 hours,high,high,three times or more,high school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,high,low,never,high school,2-6,other,Pass,F,fail,pass
+2-5 hours,average,very high,three times or more,middle school,2-6,reputation,Pass,F,pass,pass
+more than 5 hours,average,moderate,once a week,no education,2-6,home,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,no education,2-6,course,Pass,F,pass,pass
+less than 2 hours,high,high,twice a week,middle school,2-6,other,Fail,M,fail,fail
+less than 2 hours,low,high,twice a week,no education,2-6,course,Fail,M,fail,fail
+less than 2 hours,high,moderate,once a week,university,2-6,home,Pass,M,pass,pass
+2-5 hours,average,high,once a week,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,low,three times or more,university,2-6,other,Pass,M,pass,pass
+2-5 hours,average,moderate,twice a week,high school,2-6,course,Fail,F,fail,fail
+2-5 hours,average,moderate,twice a week,middle school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,low,very high,three times or more,university,2-6,home,Pass,F,fail,pass
+more than 5 hours,low,low,never,middle school,2-6,home,Pass,F,pass,pass
+more than 5 hours,average,moderate,three times or more,high school,2-6,reputation,Pass,F,fail,pass
+more than 5 hours,average,low,three times or more,middle school,2-6,home,Pass,F,pass,pass
+less than 2 hours,high,very high,three times or more,no education,2-6,course,Pass,F,fail,pass
+more than 5 hours,average,moderate,twice a week,middle school,2-6,other,Pass,F,pass,pass
+less than 2 hours,average,low,never,no education,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,high,very high,twice a week,middle school,2-6,course,Fail,M,fail,fail
+less than 2 hours,low,moderate,never,university,2-6,course,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,high school,2-6,course,Fail,M,fail,fail
+less than 2 hours,high,moderate,once a week,middle school,2-6,reputation,Pass,M,pass,pass
+2-5 hours,high,moderate,once a week,university,2-6,reputation,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,high school,2-6,course,Pass,M,pass,pass
+more than 5 hours,high,moderate,three times or more,middle school,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,2-6,other,Pass,M,pass,pass
+2-5 hours,low,very high,three times or more,university,2-6,reputation,Pass,M,pass,pass
+less than 2 hours,average,low,twice a week,middle school,2-6,course,Pass,M,fail,pass
+more than 5 hours,low,high,three times or more,middle school,2-6,reputation,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,university,2-6,home,Pass,M,pass,pass
+2-5 hours,low,very high,twice a week,middle school,2-6,home,Pass,M,fail,pass
+less than 2 hours,high,low,twice a week,university,2-6,course,Pass,M,fail,pass
+more than 5 hours,average,low,three times or more,middle school,2-6,reputation,Pass,M,pass,pass
+more than 5 hours,low,low,once a week,university,2-6,course,Pass,M,pass,pass
+less than 2 hours,high,low,once a week,high school,2-6,home,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,2-6,course,Pass,M,fail,pass
+less than 2 hours,average,low,twice a week,university,2-6,reputation,Pass,M,pass,pass
+2-5 hours,average,very high,twice a week,no education,2-6,course,Pass,M,pass,pass
+more than 5 hours,high,moderate,three times or more,middle school,2-6,home,Pass,M,pass,pass
+less than 2 hours,low,high,twice a week,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,moderate,twice a week,university,2-6,reputation,Pass,M,fail,pass
+2-5 hours,average,high,twice a week,university,2-6,home,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,no education,2-6,other,Pass,M,fail,pass
+2-5 hours,low,very high,twice a week,university,2-6,reputation,Pass,M,pass,pass
+2-5 hours,high,moderate,three times or more,university,2-6,course,Pass,M,pass,pass
+less than 2 hours,high,low,three times or more,high school,2-6,home,Pass,M,pass,pass
+less than 2 hours,low,very high,three times or more,university,2-6,home,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,high school,2-6,reputation,Pass,M,fail,pass
+more than 5 hours,average,very high,three times or more,university,2-6,home,Pass,M,pass,pass
+2-5 hours,high,low,once a week,middle school,2-6,reputation,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,2-6,course,Pass,M,fail,pass
+2-5 hours,average,high,three times or more,high school,2-6,other,Pass,M,fail,pass
+2-5 hours,average,high,twice a week,high school,2-6,reputation,Fail,F,fail,fail
+less than 2 hours,average,moderate,three times or more,middle school,2-6,home,Fail,F,fail,fail
+2-5 hours,low,low,three times or more,university,2-6,home,Fail,F,fail,fail
+more than 5 hours,average,low,once a week,high school,2-6,course,Pass,F,pass,pass
+2-5 hours,high,high,three times or more,university,2-6,other,Pass,F,pass,pass
+less than 2 hours,high,very high,three times or more,no education,2-6,course,Pass,F,fail,pass
+2-5 hours,high,high,three times or more,middle school,2-6,course,Pass,F,pass,pass
+more than 5 hours,high,high,once a week,high school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,low,very high,three times or more,no education,2-6,course,Pass,F,pass,pass
+less than 2 hours,high,moderate,three times or more,university,2-6,home,Pass,F,fail,pass
+2-5 hours,average,low,once a week,middle school,2-6,course,Pass,F,pass,pass
+2-5 hours,high,high,twice a week,high school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,average,very high,three times or more,high school,2-6,other,Pass,F,pass,pass
+less than 2 hours,average,moderate,three times or more,university,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,low,low,once a week,high school,2-6,home,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,no education,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,low,high,once a week,middle school,2-6,home,Pass,F,fail,pass
+more than 5 hours,low,moderate,twice a week,university,2-6,reputation,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,university,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,high,high,three times or more,university,2-6,reputation,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,high school,2-6,home,Pass,F,fail,pass
+more than 5 hours,low,low,once a week,university,2-6,course,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,high school,2-6,course,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,middle school,2-6,course,Pass,F,pass,pass
+less than 2 hours,average,moderate,twice a week,no education,2-6,course,Pass,F,pass,pass
+less than 2 hours,average,low,once a week,university,2-6,course,Pass,F,pass,pass
+less than 2 hours,low,very high,three times or more,no education,2-6,course,Pass,F,fail,pass
+more than 5 hours,low,low,twice a week,university,2-6,reputation,Pass,F,pass,pass
+more than 5 hours,average,low,three times or more,middle school,2-6,reputation,Pass,F,pass,pass
+less than 2 hours,average,high,twice a week,high school,2-6,course,Fail,M,fail,fail
+2-5 hours,average,moderate,three times or more,university,2-6,reputation,Fail,M,fail,fail
+less than 2 hours,average,low,twice a week,middle school,2-6,course,Pass,M,pass,pass
+less than 2 hours,high,low,three times or more,university,2-6,course,Pass,M,fail,pass
+more than 5 hours,high,low,twice a week,university,2-6,reputation,Pass,M,pass,pass
+more than 5 hours,high,high,three times or more,university,2-6,course,Fail,F,fail,fail
+less than 2 hours,high,moderate,twice a week,university,2-6,reputation,Fail,F,fail,fail
+more than 5 hours,high,low,twice a week,university,2-6,course,Pass,F,pass,pass
+more than 5 hours,high,high,twice a week,high school,2-6,other,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,high school,2-6,home,Pass,F,pass,pass
+less than 2 hours,low,very high,three times or more,high school,More than 7,home,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,high school,More than 7,other,Fail,M,fail,fail
+less than 2 hours,high,high,twice a week,university,More than 7,home,Fail,M,fail,fail
+2-5 hours,high,high,three times or more,university,More than 7,reputation,Fail,M,fail,fail
+less than 2 hours,average,very high,three times or more,middle school,More than 7,course,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,middle school,More than 7,other,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,middle school,More than 7,course,Fail,M,fail,fail
+2-5 hours,low,very high,three times or more,high school,More than 7,home,Fail,M,fail,fail
+2-5 hours,high,high,twice a week,university,More than 7,home,Fail,M,fail,fail
+2-5 hours,average,high,twice a week,high school,More than 7,course,Fail,M,fail,fail
+2-5 hours,low,very high,three times or more,high school,More than 7,course,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,middle school,More than 7,other,Fail,M,fail,fail
+less than 2 hours,high,high,three times or more,middle school,More than 7,home,Fail,M,fail,fail
+less than 2 hours,average,moderate,twice a week,middle school,More than 7,reputation,Fail,M,fail,fail
+less than 2 hours,high,moderate,three times or more,middle school,More than 7,home,Fail,M,fail,fail
+less than 2 hours,average,moderate,once a week,middle school,More than 7,course,Fail,M,fail,fail
+less than 2 hours,average,very high,twice a week,university,More than 7,other,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,middle school,More than 7,home,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,no education,More than 7,course,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,high school,More than 7,course,Fail,M,fail,fail
+2-5 hours,high,high,three times or more,high school,More than 7,course,Fail,M,fail,fail
+2-5 hours,low,very high,twice a week,university,More than 7,reputation,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,university,More than 7,other,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,university,More than 7,other,Fail,M,fail,fail
+2-5 hours,high,low,once a week,middle school,More than 7,reputation,Fail,M,fail,fail
+2-5 hours,high,low,once a week,no education,More than 7,home,Fail,M,fail,fail
+less than 2 hours,high,low,once a week,high school,More than 7,course,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,university,More than 7,home,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,high school,More than 7,other,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,university,More than 7,other,Fail,M,fail,fail
+less than 2 hours,high,moderate,twice a week,middle school,More than 7,course,Fail,M,fail,fail
+2-5 hours,average,very high,once a week,middle school,More than 7,course,Fail,M,fail,fail
+less than 2 hours,low,very high,three times or more,university,More than 7,home,Fail,M,fail,fail
+less than 2 hours,high,very high,three times or more,high school,More than 7,course,Fail,M,fail,fail
+2-5 hours,high,high,three times or more,no education,More than 7,home,Fail,M,fail,fail
+less than 2 hours,average,low,three times or more,university,More than 7,reputation,Fail,M,fail,fail
+2-5 hours,high,very high,three times or more,middle school,More than 7,reputation,Fail,M,fail,fail
+less than 2 hours,average,low,once a week,university,More than 7,course,Fail,M,fail,fail
+more than 5 hours,average,moderate,once a week,university,More than 7,course,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,More than 7,course,Pass,M,fail,pass
+2-5 hours,high,very high,three times or more,university,More than 7,course,Pass,M,pass,pass
+2-5 hours,average,high,twice a week,university,More than 7,home,Pass,M,fail,pass
+2-5 hours,low,very high,three times or more,high school,More than 7,home,Pass,M,fail,pass
+less than 2 hours,average,very high,three times or more,high school,More than 7,home,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,More than 7,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,middle school,More than 7,reputation,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,More than 7,course,Pass,M,fail,pass
+2-5 hours,high,very high,three times or more,middle school,More than 7,home,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,high school,More than 7,course,Pass,M,pass,pass
+2-5 hours,average,high,three times or more,high school,More than 7,other,Pass,M,fail,pass
+less than 2 hours,high,very high,twice a week,university,More than 7,home,Pass,M,fail,pass
+less than 2 hours,low,very high,three times or more,university,More than 7,course,Pass,M,fail,pass
+2-5 hours,average,moderate,twice a week,no education,More than 7,course,Pass,M,fail,pass
+2-5 hours,low,very high,three times or more,high school,More than 7,course,Pass,M,pass,pass
+more than 5 hours,high,low,twice a week,university,More than 7,course,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,middle school,More than 7,course,Pass,M,pass,pass
+less than 2 hours,low,very high,three times or more,middle school,More than 7,home,Pass,M,fail,pass
+less than 2 hours,high,very high,three times or more,middle school,More than 7,home,Pass,M,fail,pass
+2-5 hours,high,very high,three times or more,university,More than 7,course,Pass,M,pass,pass
+2-5 hours,high,low,twice a week,university,More than 7,reputation,Pass,M,pass,pass
+2-5 hours,high,low,three times or more,high school,More than 7,home,Pass,M,pass,pass
+more than 5 hours,average,very high,three times or more,university,More than 7,home,Pass,M,pass,pass
+2-5 hours,average,very high,once a week,university,More than 7,home,Pass,M,pass,pass
+less than 2 hours,low,very high,twice a week,high school,More than 7,reputation,Pass,M,fail,pass
+less than 2 hours,high,low,once a week,university,More than 7,course,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,More than 7,home,Pass,M,fail,pass
+2-5 hours,high,moderate,once a week,university,More than 7,reputation,Pass,M,pass,pass
+2-5 hours,average,very high,three times or more,university,More than 7,home,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,high school,More than 7,home,Pass,M,fail,pass
+2-5 hours,high,low,three times or more,university,More than 7,course,Pass,M,pass,pass
+2-5 hours,average,low,never,university,More than 7,reputation,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,university,More than 7,course,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,high school,More than 7,home,Pass,M,fail,pass
+2-5 hours,average,high,twice a week,high school,More than 7,course,Pass,M,pass,pass
+less than 2 hours,high,very high,twice a week,university,More than 7,home,Pass,M,fail,pass
+2-5 hours,average,very high,twice a week,middle school,More than 7,home,Pass,M,pass,pass
+less than 2 hours,low,moderate,twice a week,university,More than 7,course,Pass,M,pass,pass
+less than 2 hours,average,very high,twice a week,high school,More than 7,course,Pass,M,fail,pass
+less than 2 hours,high,low,once a week,university,More than 7,course,Pass,M,fail,pass
+less than 2 hours,average,very high,twice a week,university,More than 7,other,Pass,M,pass,pass
+less than 2 hours,average,very high,once a week,high school,More than 7,reputation,Pass,M,pass,pass
+less than 2 hours,high,low,once a week,high school,More than 7,course,Pass,M,fail,pass
+2-5 hours,low,very high,three times or more,university,More than 7,reputation,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,university,More than 7,reputation,Pass,M,pass,pass
+2-5 hours,high,high,three times or more,no education,More than 7,home,Pass,M,fail,pass
+less than 2 hours,low,high,once a week,middle school,More than 7,reputation,Pass,M,fail,pass
+less than 2 hours,low,moderate,once a week,middle school,More than 7,home,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,university,More than 7,home,Pass,M,fail,pass
+2-5 hours,low,moderate,three times or more,middle school,More than 7,home,Pass,M,fail,pass
+less than 2 hours,high,very high,twice a week,no education,More than 7,course,Pass,M,fail,pass
+2-5 hours,average,very high,three times or more,university,More than 7,home,Pass,M,pass,pass
+2-5 hours,high,very high,three times or more,middle school,More than 7,other,Pass,M,fail,pass
+2-5 hours,high,low,once a week,middle school,More than 7,reputation,Pass,M,pass,pass
+more than 5 hours,high,high,three times or more,middle school,More than 7,reputation,Pass,M,pass,pass
+less than 2 hours,low,high,once a week,middle school,More than 7,reputation,Pass,M,fail,pass
+less than 2 hours,average,very high,three times or more,high school,More than 7,home,Pass,M,fail,pass
+less than 2 hours,average,moderate,twice a week,middle school,More than 7,course,Pass,M,fail,pass
+less than 2 hours,average,very high,three times or more,middle school,More than 7,reputation,Pass,M,fail,pass
+2-5 hours,low,low,once a week,university,More than 7,reputation,Pass,M,pass,pass
+2-5 hours,high,moderate,three times or more,high school,More than 7,reputation,Pass,M,pass,pass
+more than 5 hours,high,low,once a week,high school,More than 7,reputation,Pass,M,pass,pass
+more than 5 hours,average,high,twice a week,high school,More than 7,reputation,Pass,M,pass,pass
+less than 2 hours,high,very high,three times or more,high school,More than 7,course,Pass,M,fail,pass
+2-5 hours,average,very high,three times or more,university,More than 7,reputation,Pass,M,fail,pass
+more than 5 hours,average,moderate,twice a week,high school,More than 7,reputation,Fail,F,fail,fail
+2-5 hours,high,high,three times or more,middle school,More than 7,course,Fail,F,fail,fail
+2-5 hours,average,high,once a week,university,More than 7,reputation,Fail,F,fail,fail
+2-5 hours,high,moderate,twice a week,university,More than 7,course,Fail,F,pass,fail
+2-5 hours,high,high,three times or more,middle school,More than 7,reputation,Fail,F,fail,fail
+more than 5 hours,average,low,three times or more,university,More than 7,course,Fail,F,fail,fail
+2-5 hours,average,high,three times or more,high school,More than 7,home,Fail,F,fail,fail
+less than 2 hours,average,moderate,once a week,middle school,More than 7,reputation,Fail,F,fail,fail
+2-5 hours,average,high,twice a week,high school,More than 7,reputation,Fail,F,fail,fail
+more than 5 hours,high,very high,twice a week,university,More than 7,home,Fail,F,fail,fail
+2-5 hours,low,low,once a week,university,More than 7,course,Fail,F,fail,fail
+2-5 hours,average,high,once a week,high school,More than 7,home,Fail,F,fail,fail
+2-5 hours,high,low,three times or more,high school,More than 7,reputation,Fail,F,fail,fail
+less than 2 hours,low,high,once a week,middle school,More than 7,home,Fail,F,fail,fail
+2-5 hours,average,low,three times or more,high school,More than 7,home,Fail,F,fail,fail
+2-5 hours,average,low,twice a week,high school,More than 7,reputation,Fail,F,fail,fail
+2-5 hours,average,moderate,twice a week,middle school,More than 7,course,Fail,F,fail,fail
+2-5 hours,high,moderate,three times or more,university,More than 7,home,Fail,F,fail,fail
+2-5 hours,high,low,three times or more,high school,More than 7,course,Fail,F,fail,fail
+less than 2 hours,high,high,three times or more,middle school,More than 7,course,Fail,F,fail,fail
+2-5 hours,low,low,three times or more,no education,More than 7,course,Fail,F,fail,fail
+more than 5 hours,high,moderate,twice a week,high school,More than 7,home,Pass,F,pass,pass
+more than 5 hours,low,high,once a week,high school,More than 7,home,Pass,F,pass,pass
+2-5 hours,low,moderate,three times or more,middle school,More than 7,home,Pass,F,pass,pass
+more than 5 hours,high,high,three times or more,university,More than 7,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,high school,More than 7,reputation,Pass,F,pass,pass
+more than 5 hours,average,moderate,once a week,no education,More than 7,course,Pass,F,pass,pass
+2-5 hours,average,high,twice a week,high school,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,low,low,once a week,middle school,More than 7,home,Pass,F,pass,pass
+less than 2 hours,low,moderate,never,university,More than 7,other,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,high school,More than 7,reputation,Pass,F,pass,pass
+less than 2 hours,average,moderate,twice a week,no education,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,average,low,once a week,no education,More than 7,course,Pass,F,fail,pass
+more than 5 hours,low,high,never,high school,More than 7,reputation,Pass,F,fail,pass
+more than 5 hours,high,high,once a week,high school,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,average,moderate,never,middle school,More than 7,home,Pass,F,pass,pass
+more than 5 hours,low,moderate,twice a week,university,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,average,moderate,three times or more,middle school,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,average,high,twice a week,high school,More than 7,reputation,Pass,F,fail,pass
+less than 2 hours,high,very high,three times or more,university,More than 7,course,Pass,F,fail,pass
+less than 2 hours,average,low,three times or more,middle school,More than 7,home,Pass,F,fail,pass
+2-5 hours,average,moderate,three times or more,university,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,average,low,twice a week,university,More than 7,course,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,high school,More than 7,reputation,Pass,F,pass,pass
+more than 5 hours,low,low,twice a week,middle school,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,high school,More than 7,reputation,Pass,F,pass,pass
+less than 2 hours,low,very high,never,university,More than 7,course,Pass,F,fail,pass
+more than 5 hours,low,low,once a week,no education,More than 7,home,Pass,F,pass,pass
+less than 2 hours,low,very high,three times or more,university,More than 7,course,Pass,F,pass,pass
+2-5 hours,low,low,three times or more,high school,More than 7,course,Pass,F,fail,pass
+less than 2 hours,high,low,once a week,middle school,More than 7,home,Pass,F,pass,pass
+2-5 hours,average,low,three times or more,high school,More than 7,home,Pass,F,pass,pass
+less than 2 hours,average,moderate,once a week,no education,More than 7,course,Pass,F,fail,pass
+2-5 hours,low,low,never,high school,More than 7,home,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,university,More than 7,other,Pass,F,pass,pass
+2-5 hours,average,very high,twice a week,high school,More than 7,home,Pass,F,fail,pass
+2-5 hours,average,low,three times or more,middle school,More than 7,other,Pass,F,pass,pass
+2-5 hours,average,high,once a week,no education,More than 7,other,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,no education,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,low,moderate,twice a week,university,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,high,low,twice a week,middle school,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,low,moderate,three times or more,university,More than 7,home,Pass,F,pass,pass
+less than 2 hours,low,very high,twice a week,high school,More than 7,home,Pass,F,fail,pass
+less than 2 hours,high,high,three times or more,middle school,More than 7,course,Pass,F,fail,pass
+less than 2 hours,low,moderate,once a week,middle school,More than 7,course,Pass,F,pass,pass
+2-5 hours,average,moderate,three times or more,university,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,average,low,never,middle school,More than 7,course,Pass,F,pass,pass
+more than 5 hours,high,high,three times or more,high school,More than 7,reputation,Pass,F,pass,pass
+less than 2 hours,average,low,never,middle school,More than 7,reputation,Pass,F,fail,pass
+less than 2 hours,low,high,three times or more,university,More than 7,home,Pass,F,fail,pass
+2-5 hours,low,high,once a week,university,More than 7,home,Pass,F,pass,pass
+more than 5 hours,low,high,once a week,no education,More than 7,reputation,Pass,F,pass,pass
+less than 2 hours,average,low,never,middle school,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,high,high,three times or more,high school,More than 7,reputation,Pass,F,pass,pass
+2-5 hours,average,moderate,three times or more,middle school,More than 7,course,Pass,F,pass,pass
+less than 2 hours,average,high,twice a week,high school,More than 7,other,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,university,More than 7,course,Pass,F,fail,pass
+2-5 hours,high,high,twice a week,no education,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,high,very high,three times or more,university,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,average,low,once a week,university,More than 7,other,Pass,F,pass,pass
+less than 2 hours,average,moderate,once a week,middle school,More than 7,reputation,Pass,F,fail,pass
+2-5 hours,low,high,three times or more,middle school,More than 7,reputation,Pass,F,pass,pass
+more than 5 hours,high,low,twice a week,middle school,More than 7,home,Pass,F,pass,pass
+2-5 hours,high,moderate,twice a week,university,More than 7,course,Pass,F,pass,pass
+2-5 hours,high,moderate,three times or more,middle school,More than 7,course,Pass,F,pass,pass
+2-5 hours,average,very high,three times or more,high school,More than 7,other,Pass,F,fail,pass
+2-5 hours,low,moderate,twice a week,middle school,More than 7,course,Pass,F,pass,pass
+2-5 hours,average,high,three times or more,high school,More than 7,course,Pass,F,pass,pass
+more than 5 hours,high,low,three times or more,middle school,More than 7,course,Pass,F,pass,pass
+2-5 hours,low,moderate,once a week,university,More than 7,course,Pass,F,pass,pass
+2-5 hours,high,low,never,middle school,More than 7,other,Pass,F,pass,pass
+more than 5 hours,average,low,twice a week,high school,More than 7,course,Pass,F,pass,pass
+2-5 hours,average,high,three times or more,high school,More than 7,home,Pass,F,pass,pass
+more than 5 hours,high,low,twice a week,middle school,More than 7,home,Pass,F,pass,pass

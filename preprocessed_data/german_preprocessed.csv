@@ -1,0 +1,1001 @@
+,Credit Amount,Duration of Credit (month),Age (years),Account Balance,Occupation,Length of current employment,Payment Status of Previous Credit,Sex,Creditability
+0,1000-2999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,Delays,Female,Credible
+1,1000-2999,Less than a year,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+2,Less than 1000,1-2 years,Younger than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+3,1000-2999,1-2 years,Older than 30,No Account,Unskilled,1-3 years,Delays,Male,Credible
+4,1000-2999,1-2 years,Older than 30,No Account,Unskilled,1-3 years,Delays,Male,Credible
+5,1000-2999,Less than a year,Older than 30,No Account,Unskilled,Less than a year,Delays,Male,Credible
+6,3000-6999,Less than a year,Older than 30,No Account,Unskilled,More than 4 years,Delays,Male,Credible
+7,1000-2999,Less than a year,Older than 30,No Account,Unskilled,Less than a year,Delays,Male,Credible
+8,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,Unemployed,Delays,Female,Credible
+9,3000-6999,2-3 years,Younger than 30,None,Unskilled,Unemployed,NA/Not Delayed,Female,Credible
+10,3000-6999,Less than a year,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+11,3000-6999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+12,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Female,Credible
+13,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,Unemployed,Delays,Male,Credible
+14,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+15,1000-2999,Less than a year,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+16,3000-6999,Less than a year,Older than 30,No Account,Unskilled,1-3 years,Delays,Male,Credible
+17,3000-6999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+18,1000-2999,More than 3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+19,More than 7000,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+20,3000-6999,Less than a year,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+21,3000-6999,1-2 years,Older than 30,None,Unskilled,Less than a year,Delays,Male,Credible
+22,1000-2999,More than 3 years,Older than 30,None,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+23,1000-2999,1-2 years,Younger than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+24,3000-6999,Less than a year,Older than 30,No Account,Unskilled,Less than a year,Delays,Male,Credible
+25,3000-6999,Less than a year,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+26,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+27,1000-2999,Less than a year,Older than 30,None,Unskilled,More than 4 years,Delays,Male,Credible
+28,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+29,3000-6999,More than 3 years,Older than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+30,3000-6999,2-3 years,Older than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+31,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+32,3000-6999,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+33,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+34,1000-2999,1-2 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+35,Less than 1000,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Female,Credible
+36,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+37,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+38,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+39,3000-6999,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Female,Credible
+40,Less than 1000,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+41,1000-2999,2-3 years,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+42,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+43,1000-2999,2-3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+44,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+45,1000-2999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+46,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+47,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Not Credible
+48,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+49,1000-2999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+50,Less than 1000,1-2 years,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+51,3000-6999,More than 3 years,Younger than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+52,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+53,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+54,3000-6999,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+55,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,More than 4 years,Delays,Female,Credible
+56,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+57,1000-2999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+58,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+59,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+60,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+61,1000-2999,2-3 years,Younger than 30,200DM or above,Highly Skilled,Less than a year,NA/Not Delayed,Female,Credible
+62,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+63,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+64,1000-2999,1-2 years,Older than 30,No Account,Unskilled,1-3 years,Delays,Male,Credible
+65,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+66,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+67,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+68,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+69,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+70,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+71,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+72,1000-2999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+73,Less than 1000,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+74,3000-6999,1-2 years,Older than 30,Below 200DM,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+75,1000-2999,Less than a year,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+76,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+77,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+78,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+79,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+80,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+81,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+82,3000-6999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+83,1000-2999,1-2 years,Older than 30,Below 200DM,Skilled,1-3 years,Delays,Male,Credible
+84,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+85,3000-6999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+86,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+87,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+88,Less than 1000,Less than a year,Older than 30,No Account,Unskilled,More than 4 years,Delays,Female,Credible
+89,1000-2999,2-3 years,Older than 30,None,Skilled,1-3 years,Delays,Female,Credible
+90,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,Delays,Male,Credible
+91,1000-2999,2-3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+92,3000-6999,2-3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+93,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+94,3000-6999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+95,3000-6999,2-3 years,Older than 30,200DM or above,Unskilled,Less than a year,Delays,Male,Credible
+96,3000-6999,1-2 years,Younger than 30,None,Unskilled,1-3 years,Delays,Female,Credible
+97,3000-6999,More than 3 years,Older than 30,None,Highly Skilled,1-3 years,Delays,Male,Not Credible
+98,1000-2999,Less than a year,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+99,3000-6999,More than 3 years,Older than 30,None,Unskilled,More than 4 years,Delays,Female,Credible
+100,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+101,Less than 1000,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+102,3000-6999,2-3 years,Older than 30,None,Highly Skilled,1-3 years,Delays,Male,Credible
+103,More than 7000,More than 3 years,Older than 30,None,Skilled,1-3 years,Delays,Female,Credible
+104,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+105,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+106,1000-2999,1-2 years,Younger than 30,200DM or above,Highly Skilled,1-3 years,Delays,Female,Credible
+107,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+108,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+109,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+110,3000-6999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+111,Less than 1000,Less than a year,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+112,1000-2999,1-2 years,Older than 30,None,Highly Skilled,More than 4 years,Delays,Male,Credible
+113,Less than 1000,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+114,3000-6999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+115,3000-6999,1-2 years,Younger than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+116,1000-2999,Less than a year,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+117,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+118,Less than 1000,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+119,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+120,3000-6999,More than 3 years,Older than 30,None,Highly Skilled,Less than a year,NA/Not Delayed,Female,Credible
+121,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+122,1000-2999,Less than a year,Older than 30,None,Highly Skilled,Less than a year,NA/Not Delayed,Male,Credible
+123,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Female,Credible
+124,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+125,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,Less than a year,Delays,Male,Credible
+126,Less than 1000,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+127,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+128,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+129,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+130,1000-2999,2-3 years,Younger than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+131,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+132,1000-2999,Less than a year,Older than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+133,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+134,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+135,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+136,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+137,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+138,Less than 1000,Less than a year,Older than 30,None,Unskilled,More than 4 years,Delays,Female,Credible
+139,3000-6999,2-3 years,Older than 30,Below 200DM,Skilled,1-3 years,Delays,Male,Credible
+140,3000-6999,More than 3 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+141,3000-6999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+142,3000-6999,2-3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+143,1000-2999,Less than a year,Older than 30,200DM or above,Highly Skilled,Unemployed,Delays,Male,Credible
+144,1000-2999,More than 3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+145,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+146,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+147,1000-2999,1-2 years,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+148,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+149,1000-2999,2-3 years,Older than 30,None,Unskilled,More than 4 years,Delays,Male,Credible
+150,Less than 1000,1-2 years,Older than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+151,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+152,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+153,3000-6999,2-3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+154,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+155,1000-2999,2-3 years,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+156,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+157,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+158,3000-6999,More than 3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+159,3000-6999,1-2 years,Younger than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+160,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+161,1000-2999,2-3 years,Older than 30,Below 200DM,Skilled,1-3 years,Delays,Male,Credible
+162,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+163,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+164,Less than 1000,1-2 years,Younger than 30,Below 200DM,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+165,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+166,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+167,3000-6999,2-3 years,Older than 30,200DM or above,Highly Skilled,1-3 years,Delays,Male,Credible
+168,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+169,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+170,3000-6999,More than 3 years,Younger than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+171,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+172,1000-2999,1-2 years,Younger than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+173,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+174,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+175,3000-6999,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+176,3000-6999,2-3 years,Younger than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+177,1000-2999,1-2 years,Older than 30,None,Skilled,Less than a year,Delays,Male,Credible
+178,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+179,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+180,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+181,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,Less than a year,Delays,Female,Credible
+182,More than 7000,2-3 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+183,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+184,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+185,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+186,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+187,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+188,1000-2999,More than 3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+189,1000-2999,1-2 years,Younger than 30,Below 200DM,Highly Skilled,1-3 years,NA/Not Delayed,Female,Credible
+190,1000-2999,2-3 years,Younger than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+191,3000-6999,More than 3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+192,More than 7000,More than 3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+193,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+194,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+195,More than 7000,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+196,3000-6999,Less than a year,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+197,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+198,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+199,3000-6999,More than 3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+200,1000-2999,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+201,More than 7000,2-3 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+202,1000-2999,1-2 years,Older than 30,Below 200DM,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+203,More than 7000,2-3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+204,3000-6999,1-2 years,Younger than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+205,3000-6999,1-2 years,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+206,1000-2999,1-2 years,Younger than 30,No Account,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+207,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+208,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+209,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+210,1000-2999,Less than a year,Younger than 30,Below 200DM,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+211,1000-2999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+212,1000-2999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+213,1000-2999,Less than a year,Older than 30,Below 200DM,Unskilled,1-3 years,Delays,Male,Credible
+214,1000-2999,Less than a year,Older than 30,None,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+215,3000-6999,Less than a year,Older than 30,Below 200DM,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+216,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+217,Less than 1000,Less than a year,Younger than 30,Below 200DM,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+218,More than 7000,More than 3 years,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Female,Credible
+219,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+220,1000-2999,1-2 years,Older than 30,No Account,Highly Skilled,Less than a year,NA/Not Delayed,Male,Credible
+221,3000-6999,2-3 years,Older than 30,Below 200DM,Unskilled,More than 4 years,Delays,Male,Credible
+222,3000-6999,2-3 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+223,More than 7000,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+224,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+225,1000-2999,2-3 years,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Female,Credible
+226,3000-6999,1-2 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+227,Less than 1000,1-2 years,Younger than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+228,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+229,3000-6999,More than 3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+230,1000-2999,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+231,Less than 1000,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+232,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+233,3000-6999,2-3 years,Older than 30,No Account,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+234,Less than 1000,1-2 years,Younger than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+235,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+236,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+237,1000-2999,2-3 years,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+238,Less than 1000,Less than a year,Younger than 30,200DM or above,Unskilled,Less than a year,NA/Not Delayed,Female,Credible
+239,1000-2999,More than 3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+240,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+241,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+242,1000-2999,1-2 years,Younger than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+243,Less than 1000,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+244,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+245,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+246,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+247,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+248,1000-2999,1-2 years,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+249,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+250,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+251,3000-6999,1-2 years,Older than 30,None,Unskilled,1-3 years,Delays,Male,Credible
+252,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+253,3000-6999,More than 3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+254,3000-6999,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+255,1000-2999,1-2 years,Younger than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+256,3000-6999,1-2 years,Younger than 30,No Account,Unskilled,More than 4 years,Delays,Female,Credible
+257,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,Less than a year,Delays,Female,Credible
+258,1000-2999,Less than a year,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+259,3000-6999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+260,1000-2999,1-2 years,Younger than 30,200DM or above,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+261,1000-2999,Less than a year,Older than 30,200DM or above,Highly Skilled,Less than a year,Delays,Female,Credible
+262,1000-2999,Less than a year,Younger than 30,Below 200DM,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+263,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+264,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+265,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+266,1000-2999,Less than a year,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+267,Less than 1000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+268,1000-2999,1-2 years,Younger than 30,200DM or above,Unskilled,Less than a year,Delays,Female,Credible
+269,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+270,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+271,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+272,Less than 1000,Less than a year,Younger than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+273,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+274,1000-2999,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+275,3000-6999,1-2 years,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+276,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+277,3000-6999,1-2 years,Younger than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+278,3000-6999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+279,1000-2999,Less than a year,Older than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+280,Less than 1000,Less than a year,Younger than 30,Below 200DM,Skilled,Less than a year,Delays,Female,Credible
+281,1000-2999,1-2 years,Older than 30,Below 200DM,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+282,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+283,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,Delays,Male,Credible
+284,3000-6999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+285,Less than 1000,Less than a year,Older than 30,200DM or above,Unskilled,Unemployed,NA/Not Delayed,Female,Credible
+286,Less than 1000,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+287,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+288,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+289,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+290,3000-6999,1-2 years,Older than 30,200DM or above,Unskilled,Less than a year,Delays,Male,Credible
+291,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+292,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+293,1000-2999,Less than a year,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+294,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+295,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+296,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+297,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+298,Less than 1000,1-2 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Credible
+299,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,Unemployed,Delays,Male,Credible
+300,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+301,3000-6999,2-3 years,Younger than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+302,3000-6999,2-3 years,Younger than 30,Below 200DM,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+303,3000-6999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+304,Less than 1000,Less than a year,Younger than 30,Below 200DM,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+305,1000-2999,2-3 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+306,1000-2999,Less than a year,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+307,Less than 1000,Less than a year,Younger than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+308,1000-2999,1-2 years,Younger than 30,No Account,Highly Skilled,Less than a year,NA/Not Delayed,Female,Credible
+309,More than 7000,More than 3 years,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+310,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+311,1000-2999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+312,Less than 1000,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Female,Credible
+313,1000-2999,2-3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+314,Less than 1000,Less than a year,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+315,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+316,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+317,3000-6999,1-2 years,Younger than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+318,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+319,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+320,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+321,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+322,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+323,1000-2999,Less than a year,Younger than 30,No Account,Skilled,Less than a year,Delays,Female,Credible
+324,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+325,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+326,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+327,1000-2999,Less than a year,Older than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+328,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+329,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+330,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+331,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+332,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+333,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+334,Less than 1000,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+335,1000-2999,2-3 years,Younger than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+336,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+337,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+338,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+339,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+340,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+341,3000-6999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+342,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,Unemployed,Delays,Male,Credible
+343,3000-6999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+344,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+345,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+346,Less than 1000,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+347,Less than 1000,Less than a year,Older than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+348,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+349,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+350,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+351,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+352,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+353,3000-6999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Female,Not Credible
+354,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+355,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+356,1000-2999,2-3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+357,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+358,1000-2999,1-2 years,Younger than 30,Below 200DM,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+359,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+360,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+361,1000-2999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+362,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+363,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+364,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+365,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+366,1000-2999,2-3 years,Older than 30,Below 200DM,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+367,1000-2999,1-2 years,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+368,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+369,3000-6999,2-3 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+370,3000-6999,2-3 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+371,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+372,More than 7000,2-3 years,Younger than 30,None,Skilled,More than 4 years,Delays,Female,Credible
+373,Less than 1000,Less than a year,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+374,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+375,3000-6999,2-3 years,Younger than 30,No Account,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+376,1000-2999,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+377,3000-6999,2-3 years,Older than 30,None,Highly Skilled,More than 4 years,Delays,Male,Credible
+378,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+379,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+380,3000-6999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+381,3000-6999,1-2 years,Younger than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+382,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+383,Less than 1000,Less than a year,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+384,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+385,Less than 1000,Less than a year,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+386,Less than 1000,Less than a year,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+387,More than 7000,2-3 years,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+388,1000-2999,Less than a year,Older than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+389,1000-2999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+390,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+391,1000-2999,1-2 years,Older than 30,Below 200DM,Unskilled,Unemployed,Delays,Male,Credible
+392,1000-2999,Less than a year,Older than 30,Below 200DM,Unskilled,1-3 years,Delays,Female,Credible
+393,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+394,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+395,1000-2999,Less than a year,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+396,3000-6999,2-3 years,Older than 30,None,Skilled,Less than a year,Delays,Male,Credible
+397,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+398,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+399,3000-6999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+400,1000-2999,2-3 years,Older than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+401,1000-2999,1-2 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+402,1000-2999,Less than a year,Younger than 30,No Account,Unskilled,Unemployed,NA/Not Delayed,Female,Credible
+403,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+404,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+405,3000-6999,More than 3 years,Older than 30,None,Unskilled,Unemployed,NA/Not Delayed,Male,Credible
+406,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+407,1000-2999,Less than a year,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+408,1000-2999,1-2 years,Older than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+409,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+410,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,Unemployed,NA/Not Delayed,Female,Credible
+411,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+412,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+413,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+414,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+415,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+416,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,Unemployed,Delays,Female,Credible
+417,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+418,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+419,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+420,Less than 1000,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+421,1000-2999,Less than a year,Older than 30,None,Skilled,1-3 years,Delays,Female,Credible
+422,1000-2999,1-2 years,Older than 30,None,Unskilled,Unemployed,Delays,Male,Credible
+423,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+424,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+425,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+426,More than 7000,More than 3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+427,1000-2999,Less than a year,Older than 30,None,Highly Skilled,More than 4 years,Delays,Female,Not Credible
+428,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+429,3000-6999,Less than a year,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+430,3000-6999,2-3 years,Younger than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Female,Credible
+431,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Not Credible
+432,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,Delays,Male,Credible
+433,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,Delays,Male,Credible
+434,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+435,Less than 1000,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+436,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+437,Less than 1000,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+438,1000-2999,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+439,3000-6999,1-2 years,Older than 30,None,Unskilled,Unemployed,Delays,Male,Credible
+440,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,Delays,Female,Credible
+441,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+442,More than 7000,More than 3 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+443,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+444,Less than 1000,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+445,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+446,Less than 1000,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+447,Less than 1000,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+448,3000-6999,More than 3 years,Older than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+449,Less than 1000,Less than a year,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+450,Less than 1000,1-2 years,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+451,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+452,More than 7000,Less than a year,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+453,3000-6999,2-3 years,Younger than 30,None,Skilled,Less than a year,Delays,Female,Credible
+454,3000-6999,1-2 years,Younger than 30,No Account,Skilled,Unemployed,NA/Not Delayed,Male,Credible
+455,More than 7000,More than 3 years,Younger than 30,None,Unskilled,1-3 years,Delays,Male,Credible
+456,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,Delays,Male,Credible
+457,1000-2999,1-2 years,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+458,1000-2999,2-3 years,Younger than 30,None,Unskilled,Less than a year,Delays,Male,Credible
+459,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+460,3000-6999,1-2 years,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+461,More than 7000,1-2 years,Older than 30,None,Highly Skilled,Unemployed,Delays,Male,Credible
+462,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+463,3000-6999,2-3 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+464,More than 7000,1-2 years,Younger than 30,None,Unskilled,Unemployed,NA/Not Delayed,Female,Credible
+465,1000-2999,1-2 years,Older than 30,Below 200DM,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+466,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+467,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+468,1000-2999,More than 3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+469,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+470,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+471,Less than 1000,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+472,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+473,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+474,3000-6999,More than 3 years,Older than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+475,Less than 1000,2-3 years,Younger than 30,200DM or above,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+476,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+477,3000-6999,2-3 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+478,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Female,Credible
+479,3000-6999,1-2 years,Older than 30,None,Skilled,Unemployed,NA/Not Delayed,Female,Credible
+480,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+481,3000-6999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+482,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+483,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+484,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+485,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+486,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,Less than a year,Delays,Male,Credible
+487,3000-6999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Female,Credible
+488,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+489,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,Less than a year,NA/Not Delayed,Male,Credible
+490,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+491,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+492,3000-6999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+493,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+494,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+495,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+496,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+497,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+498,Less than 1000,1-2 years,Older than 30,200DM or above,Unskilled,Unemployed,Delays,Female,Credible
+499,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+500,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+501,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+502,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+503,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+504,More than 7000,2-3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+505,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+506,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+507,3000-6999,2-3 years,Older than 30,200DM or above,Highly Skilled,1-3 years,Delays,Male,Credible
+508,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+509,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+510,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+511,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+512,3000-6999,2-3 years,Older than 30,None,Skilled,Less than a year,Delays,Male,Credible
+513,3000-6999,2-3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+514,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+515,1000-2999,2-3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+516,3000-6999,2-3 years,Older than 30,None,Highly Skilled,More than 4 years,Delays,Male,Credible
+517,1000-2999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+518,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+519,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,Less than a year,Delays,Female,Not Credible
+520,3000-6999,More than 3 years,Younger than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+521,More than 7000,More than 3 years,Younger than 30,200DM or above,Highly Skilled,Unemployed,NA/Not Delayed,Female,Not Credible
+522,Less than 1000,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+523,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+524,1000-2999,1-2 years,Older than 30,None,Highly Skilled,Unemployed,Delays,Male,Credible
+525,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+526,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+527,1000-2999,1-2 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+528,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+529,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+530,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+531,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+532,1000-2999,1-2 years,Older than 30,Below 200DM,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+533,1000-2999,1-2 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+534,1000-2999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+535,1000-2999,2-3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+536,3000-6999,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+537,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+538,Less than 1000,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+539,3000-6999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+540,1000-2999,Less than a year,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+541,3000-6999,More than 3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+542,1000-2999,1-2 years,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+543,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,Delays,Female,Credible
+544,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+545,Less than 1000,Less than a year,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+546,1000-2999,2-3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+547,1000-2999,Less than a year,Younger than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+548,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+549,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Credible
+550,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+551,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+552,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+553,Less than 1000,Less than a year,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+554,1000-2999,Less than a year,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+555,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Credible
+556,More than 7000,More than 3 years,Older than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+557,1000-2999,1-2 years,Older than 30,Below 200DM,Highly Skilled,Less than a year,NA/Not Delayed,Female,Credible
+558,3000-6999,2-3 years,Younger than 30,200DM or above,Highly Skilled,Unemployed,NA/Not Delayed,Female,Credible
+559,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+560,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,Less than a year,Delays,Male,Credible
+561,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+562,More than 7000,More than 3 years,Younger than 30,None,Highly Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+563,1000-2999,2-3 years,Older than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+564,3000-6999,2-3 years,Younger than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+565,1000-2999,2-3 years,Younger than 30,None,Skilled,More than 4 years,Delays,Female,Credible
+566,More than 7000,More than 3 years,Older than 30,None,Unskilled,More than 4 years,Delays,Male,Credible
+567,Less than 1000,Less than a year,Older than 30,200DM or above,Unskilled,1-3 years,Delays,Female,Credible
+568,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+569,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+570,1000-2999,1-2 years,Younger than 30,Below 200DM,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+571,More than 7000,More than 3 years,Older than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+572,More than 7000,2-3 years,Older than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+573,3000-6999,2-3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+574,3000-6999,More than 3 years,Older than 30,None,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+575,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,1-3 years,NA/Not Delayed,Male,Credible
+576,3000-6999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+577,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+578,3000-6999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Female,Not Credible
+579,More than 7000,More than 3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+580,1000-2999,2-3 years,Younger than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+581,1000-2999,2-3 years,Older than 30,No Account,Skilled,Unemployed,NA/Not Delayed,Male,Not Credible
+582,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+583,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,Unemployed,NA/Not Delayed,Female,Not Credible
+584,More than 7000,1-2 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+585,1000-2999,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+586,3000-6999,1-2 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+587,3000-6999,More than 3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+588,3000-6999,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+589,3000-6999,1-2 years,Older than 30,None,Highly Skilled,Less than a year,NA/Not Delayed,Female,Credible
+590,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+591,1000-2999,Less than a year,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+592,3000-6999,More than 3 years,Younger than 30,No Account,Unskilled,Less than a year,Delays,Female,Not Credible
+593,1000-2999,2-3 years,Younger than 30,No Account,Unskilled,Unemployed,NA/Not Delayed,Female,Not Credible
+594,3000-6999,2-3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+595,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+596,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+597,Less than 1000,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+598,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+599,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+600,More than 7000,More than 3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+601,1000-2999,2-3 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Credible
+602,1000-2999,Less than a year,Older than 30,No Account,Highly Skilled,Unemployed,NA/Not Delayed,Female,Credible
+603,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+604,1000-2999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+605,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+606,1000-2999,Less than a year,Older than 30,None,Highly Skilled,Unemployed,Delays,Male,Credible
+607,Less than 1000,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Female,Credible
+608,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+609,3000-6999,2-3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+610,Less than 1000,1-2 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+611,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+612,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+613,1000-2999,1-2 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+614,3000-6999,2-3 years,Younger than 30,No Account,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+615,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+616,More than 7000,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+617,1000-2999,1-2 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+618,3000-6999,2-3 years,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+619,Less than 1000,1-2 years,Older than 30,None,Unskilled,More than 4 years,Delays,Male,Credible
+620,More than 7000,2-3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+621,3000-6999,2-3 years,Younger than 30,200DM or above,Highly Skilled,Unemployed,Delays,Male,Credible
+622,1000-2999,1-2 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Male,Credible
+623,3000-6999,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+624,3000-6999,2-3 years,Older than 30,No Account,Highly Skilled,Unemployed,Delays,Male,Credible
+625,1000-2999,Less than a year,Older than 30,No Account,Highly Skilled,Unemployed,Delays,Male,Credible
+626,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+627,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+628,1000-2999,Less than a year,Older than 30,200DM or above,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+629,1000-2999,1-2 years,Older than 30,No Account,Highly Skilled,Unemployed,NA/Not Delayed,Female,Credible
+630,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Female,Credible
+631,More than 7000,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+632,3000-6999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+633,3000-6999,More than 3 years,Older than 30,No Account,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+634,3000-6999,More than 3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+635,3000-6999,2-3 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+636,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+637,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,Less than a year,Delays,Male,Credible
+638,3000-6999,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,Delays,Female,Credible
+639,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+640,1000-2999,More than 3 years,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Credible
+641,3000-6999,More than 3 years,Older than 30,Below 200DM,Skilled,Less than a year,NA/Not Delayed,Male,Credible
+642,3000-6999,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Female,Credible
+643,3000-6999,More than 3 years,Older than 30,No Account,Unskilled,More than 4 years,Delays,Female,Not Credible
+644,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+645,More than 7000,More than 3 years,Older than 30,No Account,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+646,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+647,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+648,1000-2999,2-3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+649,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+650,3000-6999,2-3 years,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+651,Less than 1000,Less than a year,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+652,Less than 1000,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+653,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+654,3000-6999,More than 3 years,Older than 30,None,Skilled,1-3 years,Delays,Male,Credible
+655,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+656,1000-2999,2-3 years,Older than 30,None,Skilled,Less than a year,Delays,Male,Not Credible
+657,Less than 1000,Less than a year,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+658,1000-2999,Less than a year,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+659,Less than 1000,Less than a year,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+660,1000-2999,Less than a year,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+661,1000-2999,1-2 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+662,Less than 1000,1-2 years,Younger than 30,None,Skilled,1-3 years,Delays,Male,Credible
+663,1000-2999,Less than a year,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+664,Less than 1000,Less than a year,Older than 30,No Account,Unskilled,More than 4 years,Delays,Male,Credible
+665,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Credible
+666,1000-2999,Less than a year,Older than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Credible
+667,Less than 1000,1-2 years,Younger than 30,None,Skilled,Less than a year,Delays,Male,Credible
+668,Less than 1000,1-2 years,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+669,1000-2999,Less than a year,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+670,1000-2999,1-2 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Credible
+671,1000-2999,1-2 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+672,1000-2999,1-2 years,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Credible
+673,Less than 1000,Less than a year,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+674,Less than 1000,1-2 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+675,1000-2999,Less than a year,Younger than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+676,1000-2999,Less than a year,Younger than 30,No Account,Unskilled,1-3 years,Delays,Male,Credible
+677,1000-2999,1-2 years,Older than 30,None,Unskilled,More than 4 years,Delays,Female,Credible
+678,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+679,Less than 1000,Less than a year,Younger than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+680,1000-2999,Less than a year,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+681,1000-2999,1-2 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+682,More than 7000,1-2 years,Older than 30,None,Highly Skilled,More than 4 years,Delays,Male,Credible
+683,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+684,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+685,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+686,1000-2999,Less than a year,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+687,3000-6999,More than 3 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Credible
+688,3000-6999,1-2 years,Older than 30,Below 200DM,Unskilled,Less than a year,NA/Not Delayed,Female,Credible
+689,1000-2999,2-3 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+690,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+691,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+692,Less than 1000,Less than a year,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Male,Credible
+693,3000-6999,1-2 years,Older than 30,200DM or above,Unskilled,Less than a year,Delays,Female,Credible
+694,1000-2999,1-2 years,Younger than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Credible
+695,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+696,1000-2999,1-2 years,Older than 30,Below 200DM,Skilled,1-3 years,Delays,Female,Credible
+697,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+698,3000-6999,More than 3 years,Younger than 30,None,Skilled,Unemployed,Delays,Male,Credible
+699,1000-2999,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,Delays,Female,Credible
+700,More than 7000,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+701,3000-6999,More than 3 years,Older than 30,None,Skilled,1-3 years,Delays,Male,Credible
+702,More than 7000,1-2 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Female,Credible
+703,3000-6999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+704,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Credible
+705,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+706,3000-6999,2-3 years,Younger than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Credible
+707,1000-2999,2-3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+708,More than 7000,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+709,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+710,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+711,3000-6999,More than 3 years,Older than 30,No Account,Unskilled,Unemployed,Delays,Male,Credible
+712,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+713,1000-2999,Less than a year,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Female,Credible
+714,3000-6999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+715,1000-2999,More than 3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+716,More than 7000,More than 3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+717,3000-6999,2-3 years,Older than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+718,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+719,3000-6999,More than 3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+720,3000-6999,More than 3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+721,1000-2999,1-2 years,Older than 30,Below 200DM,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+722,1000-2999,1-2 years,Younger than 30,200DM or above,Unskilled,1-3 years,Delays,Male,Credible
+723,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Credible
+724,3000-6999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+725,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+726,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+727,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+728,More than 7000,More than 3 years,Older than 30,200DM or above,Highly Skilled,1-3 years,Delays,Male,Credible
+729,More than 7000,More than 3 years,Younger than 30,None,Highly Skilled,1-3 years,Delays,Male,Credible
+730,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Male,Credible
+731,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+732,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+733,1000-2999,1-2 years,Younger than 30,No Account,Skilled,Unemployed,NA/Not Delayed,Female,Credible
+734,3000-6999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+735,1000-2999,Less than a year,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+736,1000-2999,Less than a year,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+737,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Credible
+738,1000-2999,1-2 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+739,3000-6999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+740,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+741,3000-6999,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Credible
+742,1000-2999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+743,More than 7000,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+744,3000-6999,2-3 years,Younger than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Female,Credible
+745,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Credible
+746,1000-2999,2-3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+747,3000-6999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Credible
+748,1000-2999,Less than a year,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Credible
+749,1000-2999,2-3 years,Older than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Male,Credible
+750,1000-2999,More than 3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Credible
+751,Less than 1000,Less than a year,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+752,1000-2999,Less than a year,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+753,3000-6999,2-3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+754,More than 7000,Less than a year,Younger than 30,None,Unskilled,Unemployed,NA/Not Delayed,Male,Not Credible
+755,Less than 1000,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+756,1000-2999,2-3 years,Older than 30,No Account,Unskilled,More than 4 years,Delays,Male,Not Credible
+757,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+758,1000-2999,2-3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+759,1000-2999,More than 3 years,Younger than 30,None,Skilled,Less than a year,Delays,Male,Not Credible
+760,3000-6999,More than 3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+761,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+762,3000-6999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+763,3000-6999,More than 3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+764,1000-2999,2-3 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Male,Not Credible
+765,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+766,3000-6999,More than 3 years,Younger than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+767,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Not Credible
+768,1000-2999,Less than a year,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+769,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+770,1000-2999,2-3 years,Older than 30,No Account,Highly Skilled,Unemployed,NA/Not Delayed,Male,Not Credible
+771,1000-2999,Less than a year,Younger than 30,No Account,Highly Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+772,1000-2999,1-2 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+773,More than 7000,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+774,1000-2999,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+775,1000-2999,More than 3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+776,3000-6999,1-2 years,Older than 30,None,Highly Skilled,More than 4 years,Delays,Male,Not Credible
+777,3000-6999,Less than a year,Older than 30,No Account,Highly Skilled,1-3 years,Delays,Male,Not Credible
+778,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,Delays,Male,Not Credible
+779,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+780,More than 7000,2-3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+781,1000-2999,2-3 years,Older than 30,No Account,Skilled,Less than a year,Delays,Male,Not Credible
+782,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+783,Less than 1000,Less than a year,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+784,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+785,1000-2999,2-3 years,Older than 30,200DM or above,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+786,Less than 1000,Less than a year,Older than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+787,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,Delays,Male,Not Credible
+788,3000-6999,2-3 years,Older than 30,None,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+789,3000-6999,2-3 years,Younger than 30,None,Unskilled,Less than a year,Delays,Female,Not Credible
+790,1000-2999,1-2 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+791,1000-2999,1-2 years,Younger than 30,Below 200DM,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+792,3000-6999,2-3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+793,Less than 1000,1-2 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+794,1000-2999,2-3 years,Older than 30,Below 200DM,Highly Skilled,More than 4 years,Delays,Male,Not Credible
+795,1000-2999,More than 3 years,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+796,1000-2999,1-2 years,Older than 30,Below 200DM,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+797,1000-2999,1-2 years,Older than 30,Below 200DM,Skilled,Less than a year,Delays,Male,Not Credible
+798,Less than 1000,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+799,Less than 1000,2-3 years,Older than 30,Below 200DM,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+800,1000-2999,2-3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+801,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+802,1000-2999,2-3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+803,1000-2999,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+804,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+805,1000-2999,2-3 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+806,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+807,3000-6999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+808,3000-6999,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+809,1000-2999,Less than a year,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+810,More than 7000,More than 3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+811,More than 7000,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+812,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+813,3000-6999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+814,3000-6999,Less than a year,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+815,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,More than 4 years,Delays,Female,Not Credible
+816,1000-2999,Less than a year,Older than 30,Below 200DM,Unskilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+817,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+818,1000-2999,Less than a year,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+819,1000-2999,Less than a year,Younger than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+820,More than 7000,More than 3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+821,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Male,Not Credible
+822,1000-2999,2-3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+823,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+824,1000-2999,2-3 years,Younger than 30,No Account,Unskilled,Less than a year,Delays,Female,Not Credible
+825,1000-2999,Less than a year,Older than 30,None,Highly Skilled,Unemployed,Delays,Male,Not Credible
+826,3000-6999,More than 3 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+827,3000-6999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+828,Less than 1000,1-2 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+829,3000-6999,More than 3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+830,3000-6999,More than 3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+831,3000-6999,More than 3 years,Younger than 30,200DM or above,Highly Skilled,1-3 years,Delays,Male,Not Credible
+832,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,Less than a year,Delays,Male,Not Credible
+833,3000-6999,More than 3 years,Younger than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+834,3000-6999,Less than a year,Older than 30,200DM or above,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+835,More than 7000,2-3 years,Younger than 30,None,Highly Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+836,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+837,3000-6999,2-3 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+838,3000-6999,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+839,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+840,1000-2999,More than 3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+841,1000-2999,1-2 years,Older than 30,None,Unskilled,Less than a year,Delays,Male,Not Credible
+842,1000-2999,1-2 years,Younger than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+843,More than 7000,2-3 years,Younger than 30,None,Highly Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+844,More than 7000,2-3 years,Older than 30,None,Highly Skilled,1-3 years,Delays,Male,Not Credible
+845,1000-2999,2-3 years,Younger than 30,None,Unskilled,1-3 years,Delays,Male,Not Credible
+846,1000-2999,2-3 years,Older than 30,None,Highly Skilled,Less than a year,Delays,Male,Not Credible
+847,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+848,1000-2999,More than 3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+849,More than 7000,More than 3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+850,3000-6999,More than 3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+851,Less than 1000,1-2 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+852,1000-2999,2-3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+853,1000-2999,2-3 years,Older than 30,Below 200DM,Unskilled,More than 4 years,Delays,Male,Not Credible
+854,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+855,3000-6999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+856,3000-6999,2-3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+857,1000-2999,More than 3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+858,3000-6999,More than 3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+859,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+860,3000-6999,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+861,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+862,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+863,1000-2999,1-2 years,Older than 30,200DM or above,Skilled,More than 4 years,Delays,Male,Not Credible
+864,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Male,Not Credible
+865,1000-2999,1-2 years,Older than 30,Below 200DM,Skilled,1-3 years,Delays,Male,Not Credible
+866,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+867,More than 7000,More than 3 years,Younger than 30,None,Highly Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+868,Less than 1000,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+869,1000-2999,2-3 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+870,3000-6999,More than 3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+871,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Female,Not Credible
+872,Less than 1000,1-2 years,Younger than 30,200DM or above,Skilled,Unemployed,NA/Not Delayed,Female,Not Credible
+873,More than 7000,More than 3 years,Younger than 30,200DM or above,Skilled,Less than a year,Delays,Male,Not Credible
+874,1000-2999,2-3 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+875,3000-6999,2-3 years,Younger than 30,None,Highly Skilled,Unemployed,Delays,Male,Not Credible
+876,3000-6999,2-3 years,Younger than 30,None,Highly Skilled,Unemployed,Delays,Male,Not Credible
+877,3000-6999,More than 3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+878,1000-2999,Less than a year,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+879,1000-2999,2-3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+880,1000-2999,1-2 years,Younger than 30,No Account,Unskilled,Unemployed,NA/Not Delayed,Male,Not Credible
+881,1000-2999,Less than a year,Older than 30,Below 200DM,Highly Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+882,More than 7000,More than 3 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+883,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+884,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+885,3000-6999,More than 3 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+886,3000-6999,2-3 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+887,More than 7000,More than 3 years,Younger than 30,No Account,Highly Skilled,1-3 years,Delays,Female,Not Credible
+888,1000-2999,2-3 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+889,More than 7000,More than 3 years,Younger than 30,None,Highly Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+890,More than 7000,More than 3 years,Younger than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+891,More than 7000,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+892,1000-2999,1-2 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+893,1000-2999,1-2 years,Older than 30,No Account,Skilled,Unemployed,NA/Not Delayed,Female,Not Credible
+894,1000-2999,2-3 years,Older than 30,None,Highly Skilled,Unemployed,Delays,Female,Not Credible
+895,More than 7000,1-2 years,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Female,Not Credible
+896,1000-2999,1-2 years,Older than 30,200DM or above,Unskilled,Less than a year,Delays,Male,Not Credible
+897,1000-2999,2-3 years,Younger than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+898,3000-6999,2-3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+899,1000-2999,Less than a year,Younger than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+900,3000-6999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+901,1000-2999,1-2 years,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+902,1000-2999,More than 3 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+903,3000-6999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+904,3000-6999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+905,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,Delays,Female,Not Credible
+906,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+907,1000-2999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+908,1000-2999,2-3 years,Older than 30,No Account,Skilled,Unemployed,Delays,Male,Not Credible
+909,More than 7000,More than 3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+910,3000-6999,2-3 years,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Not Credible
+911,Less than 1000,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+912,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+913,1000-2999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+914,3000-6999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+915,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+916,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+917,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+918,3000-6999,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+919,3000-6999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+920,3000-6999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+921,Less than 1000,1-2 years,Older than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+922,1000-2999,2-3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+923,3000-6999,2-3 years,Older than 30,No Account,Skilled,Unemployed,NA/Not Delayed,Male,Not Credible
+924,3000-6999,1-2 years,Younger than 30,No Account,Skilled,Less than a year,Delays,Male,Not Credible
+925,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+926,3000-6999,2-3 years,Older than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+927,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+928,More than 7000,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+929,More than 7000,More than 3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+930,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+931,1000-2999,1-2 years,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+932,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+933,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+934,1000-2999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Male,Not Credible
+935,1000-2999,1-2 years,Older than 30,No Account,Skilled,1-3 years,Delays,Male,Not Credible
+936,Less than 1000,Less than a year,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+937,Less than 1000,1-2 years,Older than 30,None,Skilled,More than 4 years,Delays,Male,Not Credible
+938,1000-2999,2-3 years,Younger than 30,None,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+939,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,More than 4 years,Delays,Male,Not Credible
+940,More than 7000,More than 3 years,Older than 30,200DM or above,Skilled,1-3 years,Delays,Male,Not Credible
+941,Less than 1000,1-2 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+942,Less than 1000,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+943,More than 7000,More than 3 years,Older than 30,None,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+944,Less than 1000,1-2 years,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+945,3000-6999,1-2 years,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Male,Not Credible
+946,1000-2999,Less than a year,Younger than 30,200DM or above,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+947,More than 7000,2-3 years,Older than 30,200DM or above,Highly Skilled,Unemployed,NA/Not Delayed,Female,Not Credible
+948,1000-2999,1-2 years,Older than 30,No Account,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+949,Less than 1000,1-2 years,Older than 30,200DM or above,Unskilled,More than 4 years,Delays,Female,Not Credible
+950,3000-6999,More than 3 years,Younger than 30,None,Unskilled,Less than a year,Delays,Male,Not Credible
+951,Less than 1000,1-2 years,Younger than 30,Below 200DM,Skilled,More than 4 years,Delays,Male,Not Credible
+952,1000-2999,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+953,More than 7000,More than 3 years,Younger than 30,200DM or above,Unskilled,1-3 years,Delays,Female,Not Credible
+954,Less than 1000,1-2 years,Younger than 30,Below 200DM,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+955,1000-2999,1-2 years,Older than 30,No Account,Unskilled,Unemployed,Delays,Female,Not Credible
+956,1000-2999,1-2 years,Older than 30,None,Unskilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+957,3000-6999,2-3 years,Younger than 30,None,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+958,3000-6999,2-3 years,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+959,3000-6999,2-3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+960,3000-6999,1-2 years,Older than 30,200DM or above,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+961,1000-2999,1-2 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+962,More than 7000,More than 3 years,Older than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+963,3000-6999,2-3 years,Younger than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+964,Less than 1000,1-2 years,Older than 30,None,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+965,More than 7000,More than 3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+966,More than 7000,2-3 years,Younger than 30,200DM or above,Skilled,Less than a year,Delays,Male,Not Credible
+967,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+968,1000-2999,More than 3 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+969,1000-2999,1-2 years,Older than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+970,3000-6999,More than 3 years,Older than 30,200DM or above,Highly Skilled,Unemployed,NA/Not Delayed,Male,Not Credible
+971,More than 7000,2-3 years,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+972,1000-2999,1-2 years,Older than 30,Below 200DM,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+973,More than 7000,More than 3 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+974,Less than 1000,Less than a year,Younger than 30,No Account,Skilled,Less than a year,NA/Not Delayed,Female,Not Credible
+975,More than 7000,2-3 years,Older than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Male,Not Credible
+976,More than 7000,More than 3 years,Older than 30,None,Highly Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+977,More than 7000,Less than a year,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+978,1000-2999,1-2 years,Younger than 30,None,Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+979,3000-6999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+980,1000-2999,2-3 years,Younger than 30,None,Skilled,Less than a year,NA/Not Delayed,Male,Not Credible
+981,1000-2999,1-2 years,Younger than 30,200DM or above,Skilled,1-3 years,Delays,Male,Not Credible
+982,3000-6999,More than 3 years,Older than 30,None,Highly Skilled,1-3 years,Delays,Female,Not Credible
+983,1000-2999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Female,Not Credible
+984,3000-6999,More than 3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+985,1000-2999,1-2 years,Older than 30,200DM or above,Highly Skilled,Unemployed,Delays,Male,Not Credible
+986,More than 7000,1-2 years,Older than 30,No Account,Highly Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+987,Less than 1000,1-2 years,Younger than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+988,Less than 1000,1-2 years,Younger than 30,No Account,Unskilled,Less than a year,NA/Not Delayed,Female,Not Credible
+989,1000-2999,2-3 years,Younger than 30,None,Unskilled,1-3 years,NA/Not Delayed,Female,Not Credible
+990,Less than 1000,1-2 years,Younger than 30,No Account,Unskilled,Unemployed,NA/Not Delayed,Female,Not Credible
+991,More than 7000,2-3 years,Older than 30,None,Highly Skilled,More than 4 years,NA/Not Delayed,Female,Not Credible
+992,More than 7000,1-2 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+993,3000-6999,1-2 years,Older than 30,No Account,Skilled,More than 4 years,Delays,Female,Not Credible
+994,3000-6999,1-2 years,Younger than 30,No Account,Skilled,1-3 years,NA/Not Delayed,Male,Not Credible
+995,1000-2999,2-3 years,Younger than 30,No Account,Unskilled,1-3 years,NA/Not Delayed,Male,Not Credible
+996,1000-2999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
+997,More than 7000,1-2 years,Older than 30,200DM or above,Highly Skilled,More than 4 years,Delays,Male,Not Credible
+998,3000-6999,1-2 years,Older than 30,None,Highly Skilled,Unemployed,NA/Not Delayed,Male,Not Credible
+999,3000-6999,2-3 years,Older than 30,No Account,Skilled,More than 4 years,NA/Not Delayed,Male,Not Credible
