@@ -19,6 +19,7 @@ from copulas.multivariate import GaussianMultivariate, VineCopula
 from copulas.univariate import GaussianUnivariate
 from copulas.datasets import sample_trivariate_xyz
 import pyvinecopulib as pv
+import scipy.stats as st
 
 class IFAC_Alt_GC:
 
@@ -232,7 +233,8 @@ class IFAC_Alt_GC:
         sit_test_scores_for_itemset = sit_test_scores.loc[unfair_part_of_data.index]
         uncertainty_scores_for_itemset = 1 - unfair_part_of_data['pred. probability']
 
-        copula, joint_cdf_scores, _, _ = self.fit_gaussian_copula(slifts_for_itemset, sit_test_scores_for_itemset, uncertainty_scores_for_itemset)
+        copula, joint_cdf_scores, _, _ = self.fit_vine_copula(slifts_for_itemset, sit_test_scores_for_itemset,
+                                                              uncertainty_scores_for_itemset)
 
         joint_cdf_scores = joint_cdf_scores + np.random.uniform(-0.001, 0.001, size=len(unfair_part_of_data))
         print(joint_cdf_scores)
@@ -247,33 +249,29 @@ class IFAC_Alt_GC:
         return copula, flip_threshold, reject_threshold, non_rejected_data
 
 
-    def fit_gaussian_copula(self, slifts, sit_scores, unc_scores):
+    def fit_vine_copula(self, slifts, sit_scores, unc_scores):
         glu_dataset = pd.concat({'global_unf': slifts,
-              'local_unf': sit_scores,
+              'local_unf': abs(sit_scores),
               'unc': unc_scores},axis=1)
 
-        gl_dataset = pd.concat({'global_unf': slifts,
-              'local_unf': sit_scores},axis=1)
+        glu_dataset_np = glu_dataset.to_numpy()
 
-        glu_dataset_transformed = pv.to_pseudo_obs(glu_dataset.to_numpy())
+        # Clean: check for NaNs or infs
+        assert not glu_dataset.isnull().values.any(), "NaNs present"
+        assert np.isfinite(glu_dataset.values).all(), "Infs present"
+
+        ranks = glu_dataset.rank(method='average').to_numpy()
+        u = ranks / (glu_dataset.shape[0] + 1)
+        u = np.clip(u, 1e-6, 1 - 1e-6)  # avoid 0 or 1
 
         controls = pv.FitControlsVinecop(family_set=[pv.gaussian])
-        copula = pv.Vinecop.from_data(glu_dataset_transformed, controls=controls)
-        cdf = pd.Series(glu_dataset_transformed, index=glu_dataset.index)
+        vine_copula = pv.Vinecop.from_data(data=u, controls=controls)
+        cdf = vine_copula.cdf(u)
+        cdf_series = pd.Series(cdf, index=glu_dataset.index)
+
         glu_dataset['cdf'] = cdf
-        print(glu_dataset)
 
-        copula_with_unc = VineCopula('center')
-        copula_with_unc.fit(glu_dataset)
-
-        copula_just_fairness = VineCopula('center')
-        copula_just_fairness.fit(glu_dataset)
-
-        # compute joint CDF
-        glu_cdf_score = pd.Series(copula_with_unc.cumulative_distribution(glu_dataset), index=glu_dataset.index)
-        gl_cdf_score = pd.Series(copula_just_fairness.cumulative_distribution(gl_dataset), index=gl_dataset.index)
-
-        return copula_with_unc, glu_cdf_score, copula_just_fairness, gl_cdf_score
+        return vine_copula, cdf_series
 
 
 

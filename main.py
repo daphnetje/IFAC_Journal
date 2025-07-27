@@ -25,7 +25,10 @@ if __name__ == '__main__':
     # run_experiment(task="oulad", coverage=0.9, base_classifier='XGB', name_test_run="debug3")
     # run_experiment(task="oulad", coverage=0.99, base_classifier='XGB', name_test_run="debug3")
 
-    run_experiment(task="mortgage", coverage=0.7, base_classifier='XGB', name_test_run="sanity")
+    run_experiment(task="mortgage", coverage=0.7, base_classifier='Random Forest', name_test_run="multipleIFACS")
+    run_experiment(task="mortgage", coverage=0.8, base_classifier='Random Forest', name_test_run="multipleIFACS")
+    run_experiment(task="mortgage", coverage=0.9, base_classifier='Random Forest', name_test_run="multipleIFACS")
+    run_experiment(task="mortgage", coverage=0.99, base_classifier='Random Forest', name_test_run="multipleIFACS")
     # run_experiment(task="mortgage", coverage=0.8, base_classifier='XGB', name_test_run="debug3")
     # run_experiment(task="mortgage", coverage=0.9, base_classifier='XGB', name_test_run="debug3")
     # run_experiment(task="mortgage", coverage=0.99, base_classifier='XGB', name_test_run="debug3")

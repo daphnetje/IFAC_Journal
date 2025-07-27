@@ -75,7 +75,9 @@ class IFAC_Alt:
         val_2_data_with_labels = X_val2_dataset.descriptive_data
         val_2_data_with_preds_and_probas = self.make_bb_preds_and_preds_proba_for_data(X_val2_dataset)
 
-        self.flip_thresholds_per_group, self.reject_threshold_per_group,  self.unc_neg_threshold_per_group, self.unc_pos_threshold_per_group = self.learn_reject_threshold(val_2_data_with_labels, val_2_data_with_preds_and_probas)
+        self.flip_thresholds_per_group_glu, self.reject_threshold_per_group_glu, self.unc_pos_threshold_per_group_glu, self.unc_neg_threshold_per_group_glu, \
+        self.flip_thresholds_per_group_gl, self.reject_threshold_per_group_gl, self.unc_pos_threshold_per_group_gl, self.unc_neg_threshold_per_group_gl, \
+            = self.learn_reject_threshold(val_2_data_with_labels, val_2_data_with_preds_and_probas)
         return X_val1_dataset.descriptive_data
 
     def make_bb_preds_for_data(self, data_set):
@@ -185,10 +187,15 @@ class IFAC_Alt:
         slift_per_index = slift_per_index.reindex(val_data_with_preds.index, fill_value=0)
         sit_test_scores = sit_test_scores.reindex(val_data_with_preds.index, fill_value=0)
 
-        unf_flip_thresholds_per_intersectional_group = {}
-        unf_reject_thresholds_per_intersectional_group = {}
-        unc_pos_threshold_per_intersectional_group = {}
-        unc_neg_threshold_per_intersectional_group = {}
+        glu_unf_flip_thresholds_per_intersectional_group = {}
+        glu_unf_reject_thresholds_per_intersectional_group = {}
+        glu_unc_pos_threshold_per_intersectional_group = {}
+        glu_unc_neg_threshold_per_intersectional_group = {}
+
+        gl_unf_flip_thresholds_per_intersectional_group = {}
+        gl_unf_reject_thresholds_per_intersectional_group = {}
+        gl_unc_pos_threshold_per_intersectional_group = {}
+        gl_unc_neg_threshold_per_intersectional_group = {}
 
         for pd_itemset in self.intersectional_pd_itemsets:
             data_from_itemset = get_instances_covered_by_rule_base(pd_itemset.dict_notation, val_data_with_preds)
@@ -206,43 +213,70 @@ class IFAC_Alt:
 
             #Learn the reject and flip thresholds for the unfair part of the data (i.e. positive prediction data in case of our reference group,
             #negative prediction data in case of our non_reference group)
-            flip_threshold, reject_threshold, non_rejected_data = self.learn_reject_and_flip_thresholds_unfair_data(unfair_part_of_data, slift_per_index, sit_test_scores, n_to_reject_per_pd_itemset[pd_itemset], n_to_flip_per_pd_itemset[pd_itemset])
-            unf_flip_thresholds_per_intersectional_group[pd_itemset] = flip_threshold
-            unf_reject_thresholds_per_intersectional_group[pd_itemset] = reject_threshold
+            flip_threshold_glu, reject_threshold_glu, non_rejected_data_glu = self.learn_reject_and_flip_thresholds_unfair_data(unfair_part_of_data, slift_per_index, sit_test_scores, n_to_reject_per_pd_itemset[pd_itemset], n_to_flip_per_pd_itemset[pd_itemset], w1=0, w2 =0, w3 = 1)
+            glu_unf_flip_thresholds_per_intersectional_group[pd_itemset] = flip_threshold_glu
+            glu_unf_reject_thresholds_per_intersectional_group[pd_itemset] = reject_threshold_glu
+
+
+            flip_threshold_gl, reject_threshold_gl, non_rejected_data_gl = self.learn_reject_and_flip_thresholds_unfair_data(unfair_part_of_data, slift_per_index, sit_test_scores, n_to_reject_per_pd_itemset[pd_itemset], n_to_flip_per_pd_itemset[pd_itemset], w1=0.5, w2 =0.5, w3 = 0.00)
+            gl_unf_flip_thresholds_per_intersectional_group[pd_itemset] = flip_threshold_gl
+            gl_unf_reject_thresholds_per_intersectional_group[pd_itemset] = reject_threshold_gl
 
             #Learn for all the remaining predictions, what are the thresholds for rejecting uncertaing negative predictins and uncertain positive ones
-            unc_neg_threshold, unc_pos_threshold = self.learn_reject_thresholds_for_uncertain_data(fair_part_of_data, non_rejected_data,
+            unc_neg_threshold_glu, unc_pos_threshold_glu = self.learn_reject_thresholds_for_uncertain_data(fair_part_of_data, non_rejected_data_glu,
                                                             n_uncertain_neg_reject_per_pd_itemset[pd_itemset]
                                                             , n_uncertain_pos_reject_per_pd_itemset[pd_itemset])
-            unc_pos_threshold_per_intersectional_group[pd_itemset] = unc_pos_threshold
-            unc_neg_threshold_per_intersectional_group[pd_itemset] = unc_neg_threshold
 
-        return unf_flip_thresholds_per_intersectional_group, unf_reject_thresholds_per_intersectional_group, unc_neg_threshold_per_intersectional_group, unc_pos_threshold_per_intersectional_group
+            unc_neg_threshold_gl, unc_pos_threshold_gl = self.learn_reject_thresholds_for_uncertain_data(
+                fair_part_of_data, non_rejected_data_gl,
+                n_uncertain_neg_reject_per_pd_itemset[pd_itemset]
+                , n_uncertain_pos_reject_per_pd_itemset[pd_itemset])
+
+            glu_unc_pos_threshold_per_intersectional_group[pd_itemset] = unc_pos_threshold_glu
+            glu_unc_neg_threshold_per_intersectional_group[pd_itemset] = unc_neg_threshold_glu
+
+            gl_unc_pos_threshold_per_intersectional_group[pd_itemset] = unc_pos_threshold_gl
+            gl_unc_neg_threshold_per_intersectional_group[pd_itemset] = unc_neg_threshold_gl
+
+        return glu_unf_flip_thresholds_per_intersectional_group, glu_unf_reject_thresholds_per_intersectional_group, \
+                glu_unc_pos_threshold_per_intersectional_group, glu_unc_neg_threshold_per_intersectional_group, \
+                gl_unf_flip_thresholds_per_intersectional_group, gl_unf_reject_thresholds_per_intersectional_group, \
+                gl_unc_pos_threshold_per_intersectional_group, gl_unc_neg_threshold_per_intersectional_group
 
 
-    def learn_reject_and_flip_thresholds_unfair_data(self, unfair_part_of_data, slift_per_index, sit_test_scores, n_to_reject, n_to_flip):
-        slifts_for_itemset = slift_per_index.loc[unfair_part_of_data.index]
-        sit_test_scores_for_itemset = sit_test_scores.loc[unfair_part_of_data.index]
-        confidence_scores_for_itemset = unfair_part_of_data['pred. probability']
+    def learn_reject_and_flip_thresholds_unfair_data(self, unfair_part_of_data, slift_per_index, sit_test_scores, n_to_reject, n_to_flip, w1, w2, w3):
+        #global unfairness scores already range between 0 and 1
+        global_unf_scores_for_itemset = slift_per_index.loc[unfair_part_of_data.index]
 
-        aggregated_disc_scores = (slifts_for_itemset + sit_test_scores_for_itemset) + (
-                1 - confidence_scores_for_itemset) + np.random.uniform(-0.01, 0.01, size=len(unfair_part_of_data))
+        #local unfairness scores range between -1 and 1 so still need to be scaled
+        local_unf_scores_for_itemset = sit_test_scores.loc[unfair_part_of_data.index]
+        local_unf_scores_scaled_for_itemset = (local_unf_scores_for_itemset + 1) / 2
 
-        flip_threshold, reject_threshold = self.decide_on_flip_and_reject_threshold(aggregated_disc_scores,
+        uncertainty_scores_for_itemset = 1 - unfair_part_of_data['pred. probability']
+        uncertainty_scores_scaled_for_itemset = (uncertainty_scores_for_itemset)
+
+        GLU_scores = (w1 * global_unf_scores_for_itemset + w2 * local_unf_scores_scaled_for_itemset + w3 * uncertainty_scores_scaled_for_itemset) \
+                 + np.random.uniform(-0.01, 0.01, size=len(unfair_part_of_data))
+
+
+        flip_threshold, reject_threshold = self.decide_on_flip_and_reject_threshold(GLU_scores,
                                                                                     n_to_flip,
                                                                                     n_to_reject)
 
-        print("Number of unfairness based rejected instances: ", len(aggregated_disc_scores[(aggregated_disc_scores >= reject_threshold) & (aggregated_disc_scores < flip_threshold)]))
-        non_rejected_indices = aggregated_disc_scores[aggregated_disc_scores < reject_threshold].index
+        print("Number of unfairness based rejected instances: ", len(GLU_scores[(GLU_scores >= reject_threshold) & (GLU_scores < flip_threshold)]))
+        non_rejected_indices = GLU_scores[GLU_scores < reject_threshold].index
         non_rejected_data = unfair_part_of_data.loc[non_rejected_indices]
+
         return flip_threshold, reject_threshold, non_rejected_data
 
     def learn_reject_thresholds_for_uncertain_data(self, fair_part_of_data, non_rejected_data, n_neg_uncertain_reject, n_pos_uncertain_reject):
         all_non_rejected_data = pd.concat([fair_part_of_data, non_rejected_data])
-        neg_preds_uncertainty = 1 - all_non_rejected_data[
-            all_non_rejected_data[self.decision_attribute] == self.negative_label]['pred. probability']
-        pos_preds_uncertainty = 1 - all_non_rejected_data[
-            all_non_rejected_data[self.decision_attribute] == self.positive_label]['pred. probability']
+        neg_preds_probability = all_non_rejected_data[all_non_rejected_data[self.decision_attribute] == self.negative_label]['pred. probability']
+        pos_preds_probability = all_non_rejected_data[all_non_rejected_data[self.decision_attribute] == self.positive_label]['pred. probability']
+
+        neg_preds_uncertainty = 1 - neg_preds_probability + np.random.uniform(-0.01, 0.01, size=len(neg_preds_probability))
+        pos_preds_uncertainty = 1 - pos_preds_probability + np.random.uniform(-0.01, 0.01, size=len(pos_preds_probability))
+
         unc_neg_threshold = self.decide_on_reject_threshold_uncertain_data(
             neg_preds_uncertainty, n_neg_uncertain_reject)
         unc_pos_threshold = self.decide_on_reject_threshold_uncertain_data(
@@ -316,7 +350,7 @@ class IFAC_Alt:
 
 
 
-    def predict(self, test_dataset):
+    def predict(self, test_dataset, use_glu_scores = True):
         #Step 1: Apply black box classifier, and store predictions
         test_data_with_preds = self.make_bb_preds_and_preds_proba_for_data(test_dataset)
         predictions = test_data_with_preds[self.decision_attribute]
@@ -359,31 +393,53 @@ class IFAC_Alt:
                 fair_part_of_data = pos_data_from_itemset
 
 
-            slifts_for_itemset = relevant_slifts.loc[unfair_part_of_data.index]
-            sit_test_scores_for_itemset = sit_test_scores.loc[unfair_part_of_data.index]
-            confidence_scores_for_itemset = unfair_part_of_data['pred. probability']
+            global_scores_for_itemset = relevant_slifts.loc[unfair_part_of_data.index]
 
-            aggregated_disc_scores = (slifts_for_itemset + sit_test_scores_for_itemset) + (
-                    1 - confidence_scores_for_itemset) + np.random.uniform(-0.01, 0.01, size=len(unfair_part_of_data))
+            local_scores_for_itemset = sit_test_scores.loc[unfair_part_of_data.index]
+            local_scaled_scores_for_itemset = (local_scores_for_itemset + 1) / 2
 
-            flip_threshold = self.flip_thresholds_per_group[pd_itemset]
-            reject_threshold = self.reject_threshold_per_group[pd_itemset]
-            to_flip_unfair = aggregated_disc_scores[aggregated_disc_scores >= flip_threshold]
-            to_reject_unfair = aggregated_disc_scores[(aggregated_disc_scores < flip_threshold) & (aggregated_disc_scores >= reject_threshold)]
+            uncertainty_scores_for_itemset = 1 - unfair_part_of_data['pred. probability']
+            uncertainty_scaled_scores_for_itemset = (uncertainty_scores_for_itemset)
+
+            if use_glu_scores:
+                aggregated_scores = (0 * global_scores_for_itemset + 0 * local_scaled_scores_for_itemset + 1 * uncertainty_scaled_scores_for_itemset) \
+                                    + np.random.uniform(-0.01, 0.01, size=len(unfair_part_of_data))
+
+                flip_threshold = self.flip_thresholds_per_group_glu[pd_itemset]
+                reject_threshold = self.reject_threshold_per_group_glu[pd_itemset]
+                unc_neg_threshold = self.unc_neg_threshold_per_group_glu[pd_itemset]
+                unc_pos_threshold = self.unc_pos_threshold_per_group_glu[pd_itemset]
+
+            else:
+                aggregated_scores = (0.5 * global_scores_for_itemset + 0.5 * local_scaled_scores_for_itemset) \
+                                    + np.random.uniform(-0.01, 0.01, size=len(unfair_part_of_data))
+
+                flip_threshold = self.flip_thresholds_per_group_gl[pd_itemset]
+                reject_threshold = self.reject_threshold_per_group_gl[pd_itemset]
+                unc_neg_threshold = self.unc_neg_threshold_per_group_gl[pd_itemset]
+                unc_pos_threshold = self.unc_pos_threshold_per_group_gl[pd_itemset]
+
+
+            to_flip_unfair = aggregated_scores[aggregated_scores >= flip_threshold]
+            to_reject_unfair = aggregated_scores[(aggregated_scores < flip_threshold) & (aggregated_scores >= reject_threshold)]
             all_unfairness_based_flipped_indices.extend(to_flip_unfair.index)
             all_unfairness_based_rejected_indices.extend(to_reject_unfair.index)
 
-            unc_neg_threshold = self.unc_neg_threshold_per_group[pd_itemset]
-            unc_pos_threshold = self.unc_pos_threshold_per_group[pd_itemset]
-            non_rejected_unfair_data_indices = aggregated_disc_scores[(aggregated_disc_scores < reject_threshold)].index
+            non_rejected_unfair_data_indices = aggregated_scores[(aggregated_scores < reject_threshold)].index
             non_rejected_unfair_data = unfair_part_of_data.loc[non_rejected_unfair_data_indices]
             all_non_rejected_data = pd.concat([non_rejected_unfair_data, fair_part_of_data])
-            neg_preds_uncertainty = 1 - all_non_rejected_data[
+
+            neg_preds_probability = all_non_rejected_data[
                 all_non_rejected_data[self.decision_attribute] == self.negative_label]['pred. probability']
-            pos_preds_uncertainty = 1 - all_non_rejected_data[
+            neg_preds_uncertainty = 1 - neg_preds_probability + np.random.uniform(-0.01, 0.01, size=len(neg_preds_probability))
+
+            pos_preds_probability = all_non_rejected_data[
                 all_non_rejected_data[self.decision_attribute] == self.positive_label]['pred. probability']
+            pos_preds_uncertainty = 1 - pos_preds_probability + np.random.uniform(-0.01, 0.01, size=len(pos_preds_probability))
+
             to_reject_unc_neg = neg_preds_uncertainty[neg_preds_uncertainty>unc_neg_threshold]
             to_reject_unc_pos = pos_preds_uncertainty[pos_preds_uncertainty>unc_pos_threshold]
+
             all_uncertainty_based_rejected_indices.extend(to_reject_unc_neg.index)
             all_uncertainty_based_rejected_indices.extend(to_reject_unc_pos.index)
 
@@ -557,10 +613,10 @@ class IFAC_Alt:
             data_dict["uncertainty_score"] = uncertainty_score
             GLU_score = uncertainty_score
 
-            flip_threshold = self.flip_thresholds_per_group[relevant_pd_itemset]
-            reject_threshold = self.reject_threshold_per_group[relevant_pd_itemset]
-            unc_neg_threshold = self.unc_neg_threshold_per_group[relevant_pd_itemset]
-            unc_pos_threshold = self.unc_pos_threshold_per_group[relevant_pd_itemset]
+            flip_threshold = self.flip_thresholds_per_group_glu[relevant_pd_itemset]
+            reject_threshold = self.reject_threshold_per_group_glu[relevant_pd_itemset]
+            unc_neg_threshold = self.unc_neg_threshold_per_group_glu[relevant_pd_itemset]
+            unc_pos_threshold = self.unc_pos_threshold_per_group_glu[relevant_pd_itemset]
 
             is_potentially_unfair = self.check_if_decision_is_potentially_unfair(decision_outcome, relevant_pd_itemset)
 

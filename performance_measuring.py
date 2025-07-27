@@ -77,12 +77,11 @@ def extract_performance_df_over_non_rejected_instances(classification_method, da
 
     rejected_data_with_org_preds = deepcopy(rejected_part_of_data)
     rejected_data_with_org_preds = rejected_data_with_org_preds.drop(columns=[decision_label])
-    rejected_data_with_org_preds[decision_label] =  original_predictions_before_rejects
+    rejected_data_with_org_preds[decision_label] = original_predictions_before_rejects
 
     situation_testing = SituationTesting(reference_group_list=reference_group_list, decision_label=decision_label,desirable_label=desirable_label, k=10, t=0, distance_function=data.distance_function)
     #first need to make sure that non_rejected_part_of_data is given right
     situation_testing.fit(sit_test_data)
-
 
     potentially_unfair_non_rejected_data = select_potentially_unfair_decisions(non_rejected_data_with_preds, decision_label, desirable_label, reference_group_list)
     potentially_unfair_rejected_data = select_potentially_unfair_decisions(rejected_data_with_org_preds, decision_label, desirable_label, reference_group_list)
