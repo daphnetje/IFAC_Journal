@@ -1,10 +1,6 @@
 from load_datasets import load_income_data, load_german_credit, load_grade_prediction_data, load_OULAD, load_mortgage, load_recidivism, load_census_data
-from IFAC.IFAC_Org import IFAC_Unfair_Uncertain_Rejects
-from IFAC.IFAC_Alt import IFAC_Alt
+from IFAC.IFAC_unweighted import IFAC_Alt
 from IFAC.IFAC_weighted import Weighted_IFAC
-from IFAC.IFAC_Alt_GC import IFAC_Alt_GC
-from IFAC.IFAC_Alt_withoutFlip import IFAC_Alt_NoFlip
-from IFAC.Reject import Reject
 from IFAC.BlackBoxClassifier import BlackBoxClassifier
 from SchreuderSelectiveClassifier import SelectiveClassifierSchreuder
 from IFAC.PD_itemset import generate_potentially_discriminated_itemsets, PD_itemset

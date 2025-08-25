@@ -1,4 +1,4 @@
-from dpabst.post_process import TransformDPAbstantion
+from dpwa_schreuder.post_process import TransformDPAbstantion
 from IFAC.Reject import SchreuderReject, Reject, SchreuderFlip
 from IFAC.BlackBoxClassifier import BlackBoxClassifier
 import pandas as pd
