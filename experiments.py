@@ -1,6 +1,6 @@
 from load_datasets import load_income_data, load_german_credit, load_grade_prediction_data, load_OULAD, load_mortgage, load_recidivism, load_census_data
-from IFAC.IFAC_unweighted import IFAC_Alt
-from IFAC.IFAC_weighted import Weighted_IFAC
+from IFAC.IFAC_unweighted import IFAC_Unweighted
+from IFAC.IFAC_weighted import IFAC_Weighted
 from IFAC.BlackBoxClassifier import BlackBoxClassifier
 from SchreuderSelectiveClassifier import SelectiveClassifierSchreuder
 from IFAC.PD_itemset import generate_potentially_discriminated_itemsets, PD_itemset
@@ -27,7 +27,7 @@ def save_for_gui(coverage, base_classifier):
     train_data, test_data_array = data.split_into_train_and_multiple_test_sets(train_size=train_ratio,
                                                                                number_of_test_sets=number_of_test_sets,
                                                                                size_of_each_test_set=test_set_size)
-    ifac = IFAC_Alt(coverage=coverage, sensitive_attributes=sensitive_attributes,
+    ifac = IFAC_Unweighted(coverage=coverage, sensitive_attributes=sensitive_attributes,
                            reference_group_list=[PD_itemset(reference_group)],
                            val1_ratio=val_ratio, val2_ratio=val_ratio, base_classifier=base_classifier)
     ifac.fit(train_data)
@@ -58,7 +58,7 @@ def save_for_gui(coverage, task, base_classifier):
     pd_itemsets = generate_potentially_discriminated_itemsets(train_data, sensitive_attributes)
     pd_itemsets.append(PD_itemset({}))
 
-    ifac = IFAC_Alt(coverage=coverage, sensitive_attributes=sensitive_attributes,
+    ifac = IFAC_Unweighted(coverage=coverage, sensitive_attributes=sensitive_attributes,
                            reference_group_list=[PD_itemset(reference_group)], task=task,
                            val1_ratio=val_ratio, val2_ratio=val_ratio, base_classifier=base_classifier)
 
@@ -91,7 +91,7 @@ def test_schreuder_stuff(coverage, base_classifier):
 
     schreuder.fit(train_data)
 
-    ifac = IFAC_Alt(coverage=coverage, sensitive_attributes=sensitive_attributes,
+    ifac = IFAC_Unweighted(coverage=coverage, sensitive_attributes=sensitive_attributes,
                            reference_group_list=[PD_itemset(reference_group)],
                            val1_ratio=val_ratio, val2_ratio=val_ratio, base_classifier=base_classifier)
     ifac.fit(train_data)
@@ -174,7 +174,7 @@ def run_experiment(task, coverage, base_classifier, name_test_run):
     train_ratio = 0.6
     val_ratio = 0.25
     test_set_size = 0.5
-    number_of_test_sets = 20 #20
+    number_of_test_sets = 2 #20
 
     train_data, sit_test, test_data_array = data.split_into_train_and_multiple_test_sets(train_size=train_ratio,
                                                                                number_of_test_sets=number_of_test_sets,
@@ -185,30 +185,30 @@ def run_experiment(task, coverage, base_classifier, name_test_run):
     pd_itemsets = generate_potentially_discriminated_itemsets(train_data, data.sensitive_attributes)
     pd_itemsets.append(PD_itemset({}))
 
-    ubac = UBAC(coverage=coverage, val_ratio=val_ratio, base_classifier=base_classifier)
-    ubac.fit(train_data)
+    # ubac = UBAC(coverage=coverage, val_ratio=val_ratio, base_classifier=base_classifier)
+    # ubac.fit(train_data)
+    #
+    # schreuder = SelectiveClassifierSchreuder(reject_rate_per_sens_group={1: coverage, 0: coverage},
+    #                                          base_classifier=base_classifier)
+    # schreuder.fit(train_data)
+    #
+    # scross = SCross(base_classifier, coverage=coverage)
+    # scross.fit(train_data)
+    #
+    # auc = AUCPlugIn(coverage=coverage, val_ratio=val_ratio, base_classifier=base_classifier)
+    # auc.fit(train_data)
 
-    schreuder = SelectiveClassifierSchreuder(reject_rate_per_sens_group={1: coverage, 0: coverage},
-                                             base_classifier=base_classifier)
-    schreuder.fit(train_data)
-
-    scross = SCross(base_classifier, coverage=coverage)
-    scross.fit(train_data)
-
-    auc = AUCPlugIn(coverage=coverage, val_ratio=val_ratio, base_classifier=base_classifier)
-    auc.fit(train_data)
-
-    ifac = Weighted_IFAC(coverage=coverage, task=task, val1_ratio=val_ratio, val2_ratio=val_ratio, base_classifier=base_classifier)
+    ifac = IFAC_Weighted(coverage=coverage, task=task, val1_ratio=val_ratio, val2_ratio=val_ratio, base_classifier=base_classifier)
     ifac.fit_discriminatory_associations(train_data)
 
     equal_weights_ifac = deepcopy(ifac)
     equal_weights_ifac.fit_reject_thresholds(w1=0.33, w2=0.33, w3=0.33)
-
-    only_fairness_ifac = deepcopy(ifac)
-    only_fairness_ifac.fit_reject_thresholds(w1=0.5, w2=0.5, w3=0.0)
-
-    only_uncertainty_ifac = deepcopy(ifac)
-    only_uncertainty_ifac.fit_reject_thresholds(w1=0.0, w2=0.0, w3=1.0)
+    #
+    # only_fairness_ifac = deepcopy(ifac)
+    # only_fairness_ifac.fit_reject_thresholds(w1=0.5, w2=0.5, w3=0.0)
+    #
+    # only_uncertainty_ifac = deepcopy(ifac)
+    # only_uncertainty_ifac.fit_reject_thresholds(w1=0.0, w2=0.0, w3=1.0)
 
 
     all_performances = pd.DataFrame([])
@@ -217,7 +217,7 @@ def run_experiment(task, coverage, base_classifier, name_test_run):
     for test_data in test_data_array:
         print("Iteration: ", iteration)
         iteration_performances, iteration_fairness = run_all_baselines(test_data, sit_test_data, pd_itemsets,  reference_group_list=[PD_itemset(data.reference_group_dict)],
-                                                                       name_sel_classifier_dict={"PlugIn": ubac,  "AUC": auc, "SCross": scross, "Schreuder": schreuder, "IFAC-GLU": equal_weights_ifac, "IFAC_GL": only_fairness_ifac, "IFAC_U": only_uncertainty_ifac},   #"PlugIn": ubac,  "AUC": auc, "SCross": scross, "Schreuder": schreuder, "IFAC": ifac, "IFAC-NoFlip": ifac_no_flip
+                                                                       name_sel_classifier_dict={"IFAC": equal_weights_ifac}, #"PlugIn": ubac,  "AUC": auc, "SCross": scross, "Schreuder": schreuder, "IFAC-GLU": equal_weights_ifac, "IFAC_GL": only_fairness_ifac, "IFAC_U": only_uncertainty_ifac
                                                                        iteration=iteration, text_file=text_file)
         all_performances = pd.concat([all_performances, iteration_performances], ignore_index=True)
         all_fairness_measures = pd.concat([all_fairness_measures, iteration_fairness], ignore_index=True)

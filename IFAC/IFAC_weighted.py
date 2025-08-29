@@ -17,7 +17,7 @@ import math
 from random import uniform
 
 
-class Weighted_IFAC:
+class IFAC_Weighted:
 
     def __init__(self, coverage, task, val1_ratio=0.1, val2_ratio=0.1, base_classifier="Random Forest", max_pvalue_slift=0.01, sit_test_k = 10):
         self.coverage = coverage
@@ -63,10 +63,10 @@ class Weighted_IFAC:
         #
         #Step 3: Prepare situation testing
         val_1_data_with_preds_and_probas = self.make_bb_preds_and_preds_proba_for_data(X_val1_dataset)
-        val_1_data_with_preds_and_probas.to_excel(self.task+"VAL1_DATA.xlsx")
         self.situationTester = SituationTesting(k=self.sit_test_k, t=0, reference_group_list=self.reference_group_list, decision_label=self.decision_attribute, desirable_label=self.positive_label, distance_function = X.distance_function)
         val_1_data_with_dummy_proba = deepcopy(X_val1_dataset.descriptive_data)
         val_1_data_with_dummy_proba['pred. probability'] = -1
+        val_1_data_with_dummy_proba.to_excel(self.task+"VAL1_DATA.xlsx")
         self.situationTester.fit(val_1_data_with_dummy_proba)
         #
         #
@@ -571,13 +571,13 @@ class Weighted_IFAC:
             decision_outcome = data_dict[self.decision_attribute]
             relevant_pd_itemset = return_relevant_pd_itemset(data_dict, self.sensitive_attributes)
 
-            uncertainty_score = 1 - data_dict['pred. probability']
+            uncertainty_score = (1 - data_dict['pred. probability'])
             relevant_rule = relevant_rules.loc[i]
             sit_test_info = relevant_sit_test_info.loc[i]
 
             data_dict["uncertainty_score"] = uncertainty_score
             #TODO change for interface
-            GLU_score = uncertainty_score
+            GLU_score = self.w3 * (uncertainty_score * 2)
 
             flip_threshold = self.flip_thresholds_per_group[relevant_pd_itemset]
             reject_threshold = self.reject_threshold_per_group[relevant_pd_itemset]
@@ -589,10 +589,12 @@ class Weighted_IFAC:
             if is_potentially_unfair:
                 data_dict['relevant_rule_id'] = relevant_rule.id
                 data_dict['max_slift'] = relevant_rule.slift
-                GLU_score += relevant_rule.slift
+                GLU_score += self.w1 * relevant_rule.slift
 
-                data_dict['sit_test_score'] = sit_test_info.disc_score
-                GLU_score += sit_test_info.disc_score
+                org_sit_test_score = sit_test_info.disc_score
+                ranged_sit_test_score = (sit_test_info.disc_score + 1) / 2
+                data_dict['sit_test_score'] = org_sit_test_score
+                GLU_score += self.w2 * ranged_sit_test_score
                 data_dict['closest_favoured'] = sit_test_info.closest_reference
                 data_dict['closest_discriminated'] = sit_test_info.closest_non_reference
 

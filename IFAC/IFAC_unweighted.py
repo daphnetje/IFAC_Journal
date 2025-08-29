@@ -17,7 +17,7 @@ import math
 from random import uniform
 
 
-class IFAC_Alt:
+class IFAC_Unweighted:
 
     def __init__(self, coverage, task, val1_ratio=0.1, val2_ratio=0.1, base_classifier="Random Forest", max_pvalue_slift=0.01, sit_test_k = 10):
         self.coverage = coverage
@@ -63,10 +63,11 @@ class IFAC_Alt:
         #
         #Step 3: Prepare situation testing
         val_1_data_with_preds_and_probas = self.make_bb_preds_and_preds_proba_for_data(X_val1_dataset)
-        val_1_data_with_preds_and_probas.to_excel(self.task+"VAL1_DATA.xlsx")
         self.situationTester = SituationTesting(k=self.sit_test_k, t=0, reference_group_list=self.reference_group_list, decision_label=self.decision_attribute, desirable_label=self.positive_label, distance_function = X.distance_function)
         val_1_data_with_dummy_proba = deepcopy(X_val1_dataset.descriptive_data)
         val_1_data_with_dummy_proba['pred. probability'] = -1
+        val_1_data_with_preds_and_probas.to_excel(self.task+"VAL1_DATA.xlsx")
+
         self.situationTester.fit(val_1_data_with_dummy_proba)
         #
         #

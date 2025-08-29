@@ -1,5 +1,6 @@
 import pandas as pd
 import plotnine as p9
+from plotnine import *
 import numpy as np
 import textwrap
 import seaborn as sns
@@ -115,7 +116,7 @@ def summary_results_to_pretty_chart_plots(dataset, classifier, baseline_acc, bas
     df_long['metric'] = df_long['metric'].astype(metric_order)
     baseline_df['metric'] =  baseline_df['metric'].astype(metric_order)
 
-    methods_order = CategoricalDtype(categories=['PlugIn', 'SCross', 'AUC', 'DPWA', 'IFAC-GLU', 'IFAC_GL', 'IFAC_U'], ordered=True)
+    methods_order = CategoricalDtype(categories=['PlugIn', 'SCross', 'AUC', 'DPWA', 'IFAC-GLU', 'IFAC-GL', 'IFAC-U'], ordered=True)
     df_long['method'] = df_long['method'].astype(methods_order)
     df_long['coverage_str'] = df_long['coverage'].astype(str)
 
@@ -153,7 +154,7 @@ def summary_results_to_pretty_chart_plots(dataset, classifier, baseline_acc, bas
                 panel_grid_major_x=element_blank(),
                 panel_grid_minor_x=element_blank(),
                 panel_grid_minor_y=element_blank())
-            + scale_colour_manual(values={"PlugIn": "#db5f57", "AUC": "#b9db57", "IFAC-GLU": "#39ad6f", "DPWA": "#5784db", "SCross": "#c957db", "IFAC_GL": "#57db94", "IFAC_U": "#9dfac8"})
+            + scale_colour_manual(values={"PlugIn": "#db5f57", "AUC": "#b9db57", "IFAC-GLU": "#39ad6f", "DPWA": "#5784db", "SCross": "#c957db", "IFAC-GL": "#57db94", "IFAC-U": "#9dfac8"})
             + scale_y_continuous(breaks=[0.0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]))
 
     print(p)
@@ -259,6 +260,12 @@ def summarize_results_per_dataset(dataset, classifier):
             if selective_classifier == "Schreuder":
                 selective_classifier = "DPWA"
 
+            if selective_classifier == "IFAC_U":
+                selective_classifier = "IFAC-U"
+
+            if selective_classifier == "IFAC_GL":
+                selective_classifier = "IFAC-GL"
+
             performance_entry = {"method": selective_classifier, "coverage": float(cov), "emp_cov": coverage, "emp_cov_ci": coverage_ci, "acc": accuracy, "acc_ci": accuracy_ci, "group fairness": fairness, "group fairness_ci": fairness_ci, "indiv. fairness": situation_testing, "indiv. fairness_ci": situation_testing_ci}
             performance_entries.append(performance_entry)
     performance_df = pd.DataFrame(performance_entries)
@@ -266,8 +273,8 @@ def summarize_results_per_dataset(dataset, classifier):
 
 
 if __name__ == '__main__':
-    #summarize_results_per_dataset("mortgage", "Random Forest")
-    summary_results_to_pretty_chart_plots("mortgage", "Random Forest", 0.62, 0.10, 0.08)
+    summarize_results_per_dataset("census", "Random Forest")
+    summary_results_to_pretty_chart_plots("census", "Random Forest", 0.81, 0.38, 0.11)
 
     # summarize_results_per_dataset("census", "NN")
     # summary_results_to_pretty_plots("census", "NN", 0.80, 0.48)
